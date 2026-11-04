@@ -1,0 +1,255 @@
+[
+  {
+    "content": "8",
+    "id": "HERO:MAIN_HERO_LIMIT"
+  },
+  {
+    "content": "20",
+    "id": "HERO:UPGRADE_LEVEL_RANGE_REQUIRE"
+  },
+  {
+    "content": "战姬星级<color=#a35e1c>2/5/8/11</color>时<color=#a35e1c>百分比</color>效果增强",
+    "id": "HERO:STAR_SKILL_DESCRIPTION"
+  },
+  {
+    "content": "战姬星级<color=#a35e1c>1/5/8/11</color>时<color=#a35e1c>百分比</color>效果增强",
+    "id": "HERO:STAR_NORMAL_SKILL_DESCRIPTION"
+  },
+  {
+    "content": "战姬升品",
+    "id": "HERO:STAR_STAR_DESCRIPTION1"
+  },
+  {
+    "content": "大幅提升战姬自身的基础属性",
+    "id": "HERO:STAR_STAR_DESCRIPTION2"
+  },
+  {
+    "content": [
+      {
+        "type": "ITEM",
+        "code": 109000,
+        "amount": 1
+      }
+    ],
+    "id": "HERO:UPGRADE_STAR_REWARDS"
+  },
+  {
+    "content": [
+      {
+        "type": "CURRENCY",
+        "code": 20,
+        "amount": 1
+      },
+      {
+        "type": "CURRENCY",
+        "code": 21,
+        "amount": 1
+      }
+    ],
+    "id": "HERO:UPGRADE_LEVEL"
+  },
+  {
+    "content": [
+      {
+        "type": "CURRENCY",
+        "code": 20,
+        "amount": 1
+      },
+      {
+        "type": "CURRENCY",
+        "code": 21,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130001,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130002,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130003,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130004,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130005,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130006,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130007,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130008,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130009,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130010,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130011,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130012,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130013,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130014,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130015,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130016,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130017,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130018,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130019,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130020,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130021,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130022,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130023,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130024,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130025,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130026,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130027,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130028,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130029,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130030,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130031,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130032,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130033,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130034,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130035,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130036,
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "code": 130037,
+        "amount": 1
+      }
+    ],
+    "id": "HERO:UPGRADE_STEP"
+  },
+  {
+    "content": "1.双生战姬会<color=#ffcf70>继承</color>原生战姬的<color=#ffcf70>等级以及圣痕星级。</color>#r#r2.双生战姬和原生战姬在单队战斗和多队战斗中<color=#ffcf70>无法同时上阵</color>。",
+    "id": "HERO:GETTWINSHERODESC"
+  }
+]

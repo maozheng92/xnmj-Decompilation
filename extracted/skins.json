@@ -1,0 +1,736 @@
+[
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1002,
+    "icon": "",
+    "id": 100200,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1002",
+    "quality": 3,
+    "roleSkinId": 1001002,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 100201,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1002,
+    "icon": "",
+    "id": 100201,
+    "isStar": false,
+    "name": "风纪委员",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1002_skin_1",
+    "quality": 4,
+    "roleSkinId": 10010021,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1003,
+    "icon": "",
+    "id": 100300,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1003",
+    "quality": 3,
+    "roleSkinId": 1001003,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 100302,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1003,
+    "icon": "",
+    "id": 100301,
+    "isStar": false,
+    "name": "银白之誓",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1003_skin_2",
+    "quality": 4,
+    "roleSkinId": 10010032,
+    "startSkin": false
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 100301,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1003,
+    "icon": "",
+    "id": 100302,
+    "isStar": false,
+    "name": "新春祭典",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1003_skin_1",
+    "quality": 5,
+    "roleSkinId": 10010031,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1008,
+    "icon": "",
+    "id": 100800,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1008",
+    "quality": 3,
+    "roleSkinId": 1001008,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 100801,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1008,
+    "icon": "",
+    "id": 100801,
+    "isStar": true,
+    "name": "惊澜绮龙",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1003_skin_3",
+    "quality": 7,
+    "roleSkinId": 11010081,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1010,
+    "icon": "",
+    "id": 101000,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1010",
+    "quality": 3,
+    "roleSkinId": 1001010,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 101001,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1010,
+    "icon": "",
+    "id": 101001,
+    "isStar": false,
+    "name": "月下微醺",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1010_skin_1",
+    "quality": 4,
+    "roleSkinId": 10010101,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1011,
+    "icon": "",
+    "id": 101100,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1011",
+    "quality": 3,
+    "roleSkinId": 1001011,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 101101,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1011,
+    "icon": "",
+    "id": 101101,
+    "isStar": false,
+    "name": "花样爱恋",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1011_skin_1",
+    "quality": 5,
+    "roleSkinId": 10010111,
+    "startSkin": false
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 101102,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1011,
+    "icon": "",
+    "id": 101102,
+    "isStar": false,
+    "name": "翩舞千回",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1011_skin_2",
+    "quality": 4,
+    "roleSkinId": 10010112,
+    "startSkin": false
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 101103,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1011,
+    "icon": "",
+    "id": 101103,
+    "isStar": false,
+    "name": "盘龙缚影",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1011_skin_3",
+    "quality": 7,
+    "roleSkinId": 10010113,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1016,
+    "icon": "",
+    "id": 101600,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1016",
+    "quality": 3,
+    "roleSkinId": 1001016,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 101601,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1016,
+    "icon": "",
+    "id": 101601,
+    "isStar": true,
+    "name": "繁花之庭",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1016_skin_1",
+    "quality": 7,
+    "roleSkinId": 10010161,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1020,
+    "icon": "",
+    "id": 102000,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1020",
+    "quality": 3,
+    "roleSkinId": 1001020,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 102001,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1020,
+    "icon": "",
+    "id": 102001,
+    "isStar": false,
+    "name": "恶魔降临",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1020_skin_1",
+    "quality": 5,
+    "roleSkinId": 10010201,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1024,
+    "icon": "",
+    "id": 102400,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1024",
+    "quality": 3,
+    "roleSkinId": 1001024,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 102401,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1024,
+    "icon": "",
+    "id": 102401,
+    "isStar": false,
+    "name": "心跳病栋",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1024_skin_1",
+    "quality": 5,
+    "roleSkinId": 10010241,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1026,
+    "icon": "",
+    "id": 102600,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1026",
+    "quality": 3,
+    "roleSkinId": 1001026,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 102601,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1026,
+    "icon": "",
+    "id": 102601,
+    "isStar": false,
+    "name": "秋风听弦",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1026_skin_1",
+    "quality": 4,
+    "roleSkinId": 10010261,
+    "startSkin": false
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 102602,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1026,
+    "icon": "",
+    "id": 102602,
+    "isStar": false,
+    "name": "绮梦心事",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1026_skin_2",
+    "quality": 5,
+    "roleSkinId": 10010262,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1030,
+    "icon": "",
+    "id": 103000,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1030",
+    "quality": 3,
+    "roleSkinId": 1001030,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 103001,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1030,
+    "icon": "",
+    "id": 103001,
+    "isStar": false,
+    "name": "纯白之约",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1030_skin_1",
+    "quality": 7,
+    "roleSkinId": 10010301,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1033,
+    "icon": "",
+    "id": 103300,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1033",
+    "quality": 3,
+    "roleSkinId": 1001033,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 103301,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1033,
+    "icon": "",
+    "id": 103301,
+    "isStar": true,
+    "name": "雨夜潜行",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1033_skin_1",
+    "quality": 7,
+    "roleSkinId": 10010331,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1035,
+    "icon": "",
+    "id": 103500,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1035",
+    "quality": 3,
+    "roleSkinId": 1001035,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 103501,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1035,
+    "icon": "",
+    "id": 103501,
+    "isStar": false,
+    "name": "海风夏日",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1035_skin_1",
+    "quality": 5,
+    "roleSkinId": 10010351,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1036,
+    "icon": "",
+    "id": 103600,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1036",
+    "quality": 3,
+    "roleSkinId": 1001036,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 103601,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1036,
+    "icon": "",
+    "id": 103601,
+    "isStar": false,
+    "name": "苍龙之域",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1036_skin_1",
+    "quality": 4,
+    "roleSkinId": 10010361,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1039,
+    "icon": "",
+    "id": 103900,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1039",
+    "quality": 3,
+    "roleSkinId": 1001039,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 103901,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1039,
+    "icon": "",
+    "id": 103901,
+    "isStar": false,
+    "name": "宸龙之域",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1039_skin_1",
+    "quality": 4,
+    "roleSkinId": 10010391,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1044,
+    "icon": "",
+    "id": 104400,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1044",
+    "quality": 3,
+    "roleSkinId": 1001044,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 104401,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1044,
+    "icon": "",
+    "id": 104401,
+    "isStar": false,
+    "name": "炽龙之域",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1044_skin_1",
+    "quality": 4,
+    "roleSkinId": 10010441,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1046,
+    "icon": "",
+    "id": 104600,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1046",
+    "quality": 3,
+    "roleSkinId": 1001046,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 104601,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1046,
+    "icon": "",
+    "id": 104601,
+    "isStar": false,
+    "name": "加冕之时",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1046_skin_1",
+    "quality": 5,
+    "roleSkinId": 10010461,
+    "startSkin": false
+  },
+  {
+    "activeCosts": "",
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1049,
+    "icon": "",
+    "id": 104900,
+    "isStar": false,
+    "name": "初始形象",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1049",
+    "quality": 3,
+    "roleSkinId": 1001049,
+    "startSkin": true
+  },
+  {
+    "activeCosts": [
+      {
+        "type": "HERO_SKIN_VOUCHER",
+        "code": 104901,
+        "amount": 1
+      }
+    ],
+    "desc": "",
+    "getway": [
+      "FUNCTION_ASCENSIONTASK"
+    ],
+    "heroId": 1049,
+    "icon": "",
+    "id": 104901,
+    "isStar": false,
+    "name": "霓虹律动",
+    "playerDetailIcon": "战姬皮肤/pifu_card_1049_skin_1",
+    "quality": 5,
+    "roleSkinId": 10010491,
+    "startSkin": false
+  }
+]

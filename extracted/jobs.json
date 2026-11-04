@@ -1,0 +1,170 @@
+[
+  {
+    "attribute": "JOB_TK",
+    "fetterPlaySkills": {
+      "2": {
+        "JB_JOB_TK_2": 1
+      },
+      "4": {
+        "JB_JOB_TK_4": 1
+      },
+      "6": {
+        "JB_JOB_TK_6": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 1,
+    "jobIcon": "Camp/icon_bond_job_6",
+    "name": "坦克",
+    "skillDescription": [
+      "JB_JOB_TK_TOTAL"
+    ]
+  },
+  {
+    "attribute": "JOB_ZS",
+    "fetterPlaySkills": {
+      "2": {
+        "JB_JOB_ZS_2": 1
+      },
+      "4": {
+        "JB_JOB_ZS_4": 1
+      },
+      "6": {
+        "JB_JOB_ZS_6": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 2,
+    "jobIcon": "Camp/icon_bond_job_4",
+    "name": "战士",
+    "skillDescription": [
+      "JB_JOB_ZS_TOTAL"
+    ]
+  },
+  {
+    "attribute": "JOB_QS",
+    "fetterPlaySkills": {
+      "2": {
+        "JB_JOB_QS_2": 1
+      },
+      "4": {
+        "JB_JOB_QS_4": 1
+      },
+      "6": {
+        "JB_JOB_QS_6": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 3,
+    "jobIcon": "Camp/icon_bond_job_5",
+    "name": "骑士",
+    "skillDescription": [
+      "JB_JOB_QS_TOTAL"
+    ]
+  },
+  {
+    "attribute": "JOB_CK",
+    "fetterPlaySkills": {
+      "2": {
+        "JB_JOB_CK_2": 1
+      },
+      "4": {
+        "JB_JOB_CK_4": 1
+      },
+      "6": {
+        "JB_JOB_CK_6": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 4,
+    "jobIcon": "Camp/icon_bond_job_1",
+    "name": "刺客",
+    "skillDescription": [
+      "JB_JOB_CK_TOTAL"
+    ]
+  },
+  {
+    "attribute": "JOB_FS",
+    "fetterPlaySkills": {
+      "2": {
+        "JB_JOB_FS_2": 1
+      },
+      "4": {
+        "JB_JOB_FS_4": 1
+      },
+      "6": {
+        "JB_JOB_FS_6": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 5,
+    "jobIcon": "Camp/icon_bond_job_7",
+    "name": "法师",
+    "skillDescription": [
+      "JB_JOB_FS_TOTAL"
+    ]
+  },
+  {
+    "attribute": "JOB_WS",
+    "fetterPlaySkills": {
+      "2": {
+        "JB_JOB_WS_2": 1
+      },
+      "4": {
+        "JB_JOB_WS_4": 1
+      },
+      "6": {
+        "JB_JOB_WS_6": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 6,
+    "jobIcon": "Camp/icon_bond_job_2",
+    "name": "巫师",
+    "skillDescription": [
+      "JB_JOB_WS_TOTAL"
+    ]
+  },
+  {
+    "attribute": "JOB_YX",
+    "fetterPlaySkills": {
+      "2": {
+        "JB_JOB_YX_2": 1
+      },
+      "4": {
+        "JB_JOB_YX_4": 1
+      },
+      "6": {
+        "JB_JOB_YX_6": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 7,
+    "jobIcon": "Camp/icon_bond_job_3",
+    "name": "游侠",
+    "skillDescription": [
+      "JB_JOB_YX_TOTAL"
+    ]
+  },
+  {
+    "attribute": "JOB_MS",
+    "fetterPlaySkills": "",
+    "fighterFetterPlaySkills": {
+      "1": {
+        "JB_JOB_MS_1": 1
+      },
+      "3": {
+        "JB_JOB_MS_3": 1
+      },
+      "5": {
+        "JB_JOB_MS_5": 1
+      }
+    },
+    "id": 8,
+    "jobIcon": "Camp/icon_bond_job_8",
+    "name": "牧师",
+    "skillDescription": [
+      "JB_JOB_MS_TOTAL"
+    ]
+  }
+]
