@@ -1,0 +1,5540 @@
+[
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1001",
+    "body": "hero/doll_card_1001/doll_card_1001",
+    "bust": "card/card_1001/card_1001",
+    "contacBubble": "切，又射偏了。",
+    "contactSound": "Sound/Hero_sound/sound_get_1001",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "……你好。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1001",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_01",
+    "failBubble": "切，被小瞧了吗。",
+    "failSound": "Sound/Hero_sound/sound_win_1001",
+    "favorIcon": "favor_avatar/haogan_pixel_head_01",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1001",
+    "id": 1001001,
+    "image_card_bg": "bg_card_1001",
+    "ImageDeviation": [
+      120.0,
+      -150.0
+    ],
+    "ImageScale": 1.0499999523162842,
+    "lineupBubble": [
+      "这是……什么训练吗？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1001"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_01",
+    "MvpBubble": "切，被小瞧了吗。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1001",
+    "name": "黄忠",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1001",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0499999523162842,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "……果然，你喜欢这种事情吗？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1001"
+    ],
+    "suyueTalk": [
+      "哼，看来得好好校准一下这把弓了。"
+    ],
+    "suyueTouckTalk": [
+      "这是……要陪我训练吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_01"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1002",
+    "body": "hero/doll_card_1002/doll_card_1002",
+    "bust": "card/card_1002/card_1002",
+    "contacBubble": "你……该不会想要骑我吧？",
+    "contactSound": "Sound/Hero_sound/sound_get_1002",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "你好。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1002",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_02",
+    "failBubble": "你……该不会想要骑我吧？",
+    "failSound": "Sound/Hero_sound/sound_get_1002",
+    "favorIcon": "favor_avatar/haogan_pixel_head_02",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1002",
+    "id": 1001002,
+    "image_card_bg": "bg_card_1002",
+    "ImageDeviation": [
+      0.0,
+      -400.0
+    ],
+    "ImageScale": 1.0499999523162842,
+    "lineupBubble": [
+      "我会打倒他们的！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1002"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_02",
+    "MvpBubble": "你……该不会想要骑我吧？",
+    "MvpSound": "Sound/Hero_sound/sound_get_1002",
+    "name": "马超",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1002",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.100000023841858,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "你还真是个怪人呢！"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1002"
+    ],
+    "suyueTalk": [
+      "我的速度，可是无人能及哦！"
+    ],
+    "suyueTouckTalk": [
+      "喂，靠太近啦！想、想比试一场吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_02"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1003",
+    "body": "hero/doll_card_1003/doll_card_1003",
+    "bust": "card/card_1003/card_1003",
+    "contacBubble": "哪怕前方敌寇如海，我的步伐也绝不会停下！",
+    "contactSound": "Sound/Hero_sound/sound_get_1004",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "殿下，今天心情如何？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1003",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_03",
+    "failBubble": "感觉不坏。",
+    "failSound": "Sound/Hero_sound/sound_up_1003",
+    "favorIcon": "favor_avatar/haogan_pixel_head_03",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1003",
+    "id": 1001003,
+    "image_card_bg": "bg_card_1003",
+    "ImageDeviation": [
+      0.0,
+      -820.0
+    ],
+    "ImageScale": 1.3300000429153442,
+    "lineupBubble": [
+      "在下……必将守护殿下的安危。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1003"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_03",
+    "MvpBubble": "感觉不坏。",
+    "MvpSound": "Sound/Hero_sound/sound_up_1003",
+    "name": "赵云",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1003",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.3300000429153442,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "感觉不坏。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1003"
+    ],
+    "suyueTalk": [
+      "殿下所在之处，便是我长枪所指之地。"
+    ],
+    "suyueTouckTalk": [
+      "请放心，我的枪锋会为您扫清一切障碍。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_03"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1004",
+    "body": "hero/doll_card_1004/doll_card_1004",
+    "bust": "card/card_1004/card_1004",
+    "contacBubble": "天下碌碌之辈，诚不足虑也！",
+    "contactSound": "Sound/Hero_sound/sound_get_1004",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "没想到……又见面了呢。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1004",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_04",
+    "failBubble": "天下碌碌之辈，诚不足虑也！",
+    "failSound": "Sound/Hero_sound/sound_get_1004",
+    "favorIcon": "favor_avatar/haogan_pixel_head_04",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1004",
+    "id": 1001004,
+    "image_card_bg": "bg_card_1004",
+    "ImageDeviation": [
+      40.0,
+      -350.0
+    ],
+    "ImageScale": 1.350000023841858,
+    "lineupBubble": [
+      "成为我剑下的亡魂吧！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1004"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_04",
+    "MvpBubble": "天下碌碌之辈，诚不足虑也！",
+    "MvpSound": "Sound/Hero_sound/sound_get_1004",
+    "name": "刘备",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1004",
+    "PlotImageDeviation": [
+      9.0,
+      350.0
+    ],
+    "PlotImageScale": 1.350000023841858,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "感觉很不错呢。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1004"
+    ],
+    "suyueTalk": [
+      "以仁德之剑，平定这乱世吧。"
+    ],
+    "suyueTouckTalk": [
+      "我的剑，将为信赖我之人而挥。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_04"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1005",
+    "body": "hero/doll_card_1005/doll_card_1005",
+    "bust": "card/card_1005/card_1005",
+    "contacBubble": "我会拼上小命，一直守护殿下的！",
+    "contactSound": "Sound/Hero_sound/sound_get_1005",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "殿下，我来啦~",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1005",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_05",
+    "failBubble": "我会拼上小命，一直守护殿下的！",
+    "failSound": "Sound/Hero_sound/sound_get_1005",
+    "favorIcon": "favor_avatar/haogan_pixel_head_05",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1005",
+    "id": 1001005,
+    "image_card_bg": "bg_card_1005",
+    "ImageDeviation": [
+      0.0,
+      -550.0
+    ],
+    "ImageScale": 1.100000023841858,
+    "lineupBubble": [
+      "妨碍殿下的人，我会全部斩光光！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1005"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_05",
+    "MvpBubble": "我会拼上小命，一直守护殿下的！",
+    "MvpSound": "Sound/Hero_sound/sound_get_1005",
+    "name": "张飞",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1005",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.149999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "殿下的宠爱，我会好好珍惜的！"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1005"
+    ],
+    "suyueTalk": [
+      "谁要是敢对殿下不利，我第一个不答应！"
+    ],
+    "suyueTouckTalk": [
+      "殿下！要一起冲冲冲吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_05"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1006",
+    "body": "hero/doll_card_1006/doll_card_1006",
+    "bust": "card/card_1006/card_1006",
+    "contacBubble": "逆贼，斩之！",
+    "contactSound": "Sound/Hero_sound/sound_get_1006",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "主公！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1006",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_06",
+    "failBubble": "逆贼，斩之！",
+    "failSound": "Sound/Hero_sound/sound_get_1006",
+    "favorIcon": "favor_avatar/haogan_pixel_head_06",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1006",
+    "id": 1001006,
+    "image_card_bg": "bg_card_1006",
+    "ImageDeviation": [
+      -50.0,
+      -500.0
+    ],
+    "ImageScale": 1.75,
+    "lineupBubble": [
+      "关某，必将完成自己的使命！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1006"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_06",
+    "MvpBubble": "逆贼，斩之！",
+    "MvpSound": "Sound/Hero_sound/sound_get_1006",
+    "name": "关羽",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1006",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.75,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "关某，必将完成自己的使命！"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_fight_1006"
+    ],
+    "suyueTalk": [
+      "忠义之道，由我来践行。"
+    ],
+    "suyueTouckTalk": [
+      "关某在此，休得无礼。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_06"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1007",
+    "body": "hero/doll_card_1007/doll_card_1007",
+    "bust": "card/card_1007/card_1007",
+    "contacBubble": "夜观天象，便可知天下大势。",
+    "contactSound": "Sound/Hero_sound/sound_get_1007",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "还安好吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1007",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_07",
+    "failBubble": "忠义不存者，何足为惧。",
+    "failSound": "Sound/Hero_sound/sound_win_1007",
+    "favorIcon": "favor_avatar/haogan_pixel_head_07",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1007",
+    "id": 1001007,
+    "image_card_bg": "bg_card_1007",
+    "ImageDeviation": [
+      -100.0,
+      -325.0
+    ],
+    "ImageScale": 1.25,
+    "lineupBubble": [
+      "夜观天象，便可知天下大势。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_get_1007"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_07",
+    "MvpBubble": "忠义不存者，何足为惧。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1007",
+    "name": "诸葛果",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1007",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.25,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "总觉得……心情平静下来了。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1007"
+    ],
+    "suyueTalk": [
+      "星象轮转，命数已定……"
+    ],
+    "suyueTouckTalk": [
+      "你也要一起来观星吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_07"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1008",
+    "body": "hero/doll_card_1008/doll_card_1008",
+    "bust": "card/card_1008/card_1008",
+    "contacBubble": "与主同生！与主同死！",
+    "contactSound": "Sound/Hero_sound/sound_get_1008",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "策马扬鞭飞沙起，吾乃英勇冠三军！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1008",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_08",
+    "failBubble": "与主同生！与主同死！",
+    "failSound": "Sound/Hero_sound/sound_get_1008",
+    "favorIcon": "favor_avatar/haogan_pixel_head_08",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1008",
+    "id": 1001008,
+    "image_card_bg": "bg_card_1008",
+    "ImageDeviation": [
+      50.0,
+      -150.0
+    ],
+    "ImageScale": 1.25,
+    "lineupBubble": [
+      "是哪位蠢货胆敢和我一战？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1008"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_08",
+    "MvpBubble": "与主同生！与主同死！",
+    "MvpSound": "Sound/Hero_sound/sound_get_1008",
+    "name": "武神",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1008",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.25,
+    "scale": 0.30000001192092896,
+    "spBust": "card/card_1008_effect/card_1008_effect",
+    "strenthBubble": [
+      "哈哈，真是不可思议的感觉。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1008"
+    ],
+    "suyueTalk": [
+      "还有谁，敢来挑战我？"
+    ],
+    "suyueTouckTalk": [
+      "哼，你倒是挺有胆量的嘛。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_08"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1009",
+    "body": "hero/doll_card_1009/doll_card_1009",
+    "bust": "card/card_1009/card_1009",
+    "contacBubble": "世间离生灭，犹如虚空华。",
+    "contactSound": "Sound/Hero_sound/sound_get_1009",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "是有什么在意的事情吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1009",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_09",
+    "failBubble": "一个没有悲伤的世界。",
+    "failSound": "Sound/Hero_sound/sound_win_1009",
+    "favorIcon": "favor_avatar/haogan_pixel_head_09",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1009",
+    "id": 1001009,
+    "image_card_bg": "bg_card_1024",
+    "ImageDeviation": [
+      50.0,
+      -650.0
+    ],
+    "ImageScale": 1.309999942779541,
+    "lineupBubble": [
+      "佛陀曾说，此处不可越界……"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1009"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_09",
+    "MvpBubble": "一个没有悲伤的世界。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1009",
+    "name": "梵天",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1009",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.3300000429153442,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "这是您特有的问候方式吗？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1009"
+    ],
+    "suyueTalk": [
+      "一切烦恼，皆由心生。"
+    ],
+    "suyueTouckTalk": [
+      "嘘……请静心。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_09"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1010",
+    "body": "hero/doll_card_1010/doll_card_1010",
+    "bust": "card/card_1010/card_1010",
+    "contacBubble": "嗯～？空气里好像有血的味道~",
+    "contactSound": "Sound/Hero_sound/sound_get_1010",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "你好。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1010",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_10",
+    "failBubble": "嗯～？空气里好像有血的味道~",
+    "failSound": "Sound/Hero_sound/sound_get_1010",
+    "favorIcon": "favor_avatar/haogan_pixel_head_10",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1010",
+    "id": 1001010,
+    "image_card_bg": "bg_card_1053",
+    "ImageDeviation": [
+      0.0,
+      -255.0
+    ],
+    "ImageScale": 1.149999976158142,
+    "lineupBubble": [
+      "啊哈哈……血，我想要很多很多血~"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1010"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_10",
+    "MvpBubble": "嗯～？空气里好像有血的味道~",
+    "MvpSound": "Sound/Hero_sound/sound_get_1010",
+    "name": "夜叉",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1010",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2000000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "嗯～如果再继续的话，会发生什么可就说不准了哦？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1010"
+    ],
+    "suyueTalk": [
+      "嗯~好想闻到大餐的味道呀~"
+    ],
+    "suyueTouckTalk": [
+      "你身上……有股很香的味道呢~"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_10"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1011",
+    "body": "hero/doll_card_1011/doll_card_1011",
+    "bust": "card/card_1011/card_1011",
+    "contacBubble": "要不要一起…书写美妙的故事呢？♡",
+    "contactSound": "Sound/Hero_sound/sound_get_1011",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "难道…主人刚刚是在想我吗？♡",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1011",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_11",
+    "failBubble": "主人的心意…我感受到了。",
+    "failSound": "Sound/Hero_sound/sound_up_1011",
+    "favorIcon": "favor_avatar/haogan_pixel_head_11",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1011",
+    "id": 1001011,
+    "image_card_bg": "bg_card_1011",
+    "ImageDeviation": [
+      -50.0,
+      -250.0
+    ],
+    "ImageScale": 0.949999988079071,
+    "lineupBubble": [
+      "主人有什么吩咐，请尽管交给我吧~"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1011"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_11",
+    "MvpBubble": "主人的心意…我感受到了。",
+    "MvpSound": "Sound/Hero_sound/sound_up_1011",
+    "name": "貂蝉",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1011",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0,
+    "scale": 0.30000001192092896,
+    "spBust": "card/card_1011_effect/card_1011_effect",
+    "strenthBubble": [
+      "主人的心意…我感受到了。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1011"
+    ],
+    "suyueTalk": [
+      "主人的心愿，就是我的使命哦。"
+    ],
+    "suyueTouckTalk": [
+      "想和我共舞一曲吗，主人？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_11"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1012",
+    "body": "hero/doll_card_1012/doll_card_1012",
+    "bust": "card/card_1012/card_1012",
+    "contacBubble": "啊啊～这鞭子用起来的手感真是绝妙啊～",
+    "contactSound": "Sound/Hero_sound/sound_get_1012",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "哎呀~您是想鞭打我吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1012",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_12",
+    "failBubble": "还不错嘛~",
+    "failSound": "Sound/Hero_sound/sound_win_1012",
+    "favorIcon": "favor_avatar/haogan_pixel_head_12",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1012",
+    "id": 1001012,
+    "image_card_bg": "bg_card_1028",
+    "ImageDeviation": [
+      0.0,
+      -1200.0
+    ],
+    "ImageScale": 0.5,
+    "lineupBubble": [
+      "啊哈哈哈哈~坏孩子可是要挨鞭子的~"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1012"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_12",
+    "MvpBubble": "还不错嘛~",
+    "MvpSound": "Sound/Hero_sound/sound_win_1012",
+    "name": "伊莎贝拉",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1012",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 0.5,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "呵呵，感觉真不错呢~"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1012"
+    ],
+    "suyueTalk": [
+      "不听话的孩子，必须要好好“教育”呢~"
+    ],
+    "suyueTouckTalk": [
+      "呵呵，你看起来很不乖哦？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_12"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1013",
+    "body": "hero/doll_card_1013/doll_card_1013",
+    "bust": "card/card_1013/card_1013",
+    "contacBubble": "帕特拉，要努力守护好父亲的王国！",
+    "contactSound": "Sound/Hero_sound/sound_get_1013",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "你，已经是帕特拉的朋友了…对吧？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1013",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_13",
+    "failBubble": "帕特拉，要努力守护好父亲的王国！",
+    "failSound": "Sound/Hero_sound/sound_get_1013",
+    "favorIcon": "favor_avatar/haogan_pixel_head_13",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1013",
+    "id": 1001013,
+    "image_card_bg": "bg_card_1013",
+    "ImageDeviation": [
+      65.0,
+      -645.0
+    ],
+    "ImageScale": 1.1799999475479126,
+    "lineupBubble": [
+      "帕特拉来啦~"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1013"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_13",
+    "MvpBubble": "帕特拉，要努力守护好父亲的王国！",
+    "MvpSound": "Sound/Hero_sound/sound_get_1013",
+    "name": "克里奥帕特拉",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1013",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.25,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "从今往后，也要一直帮助帕特拉我哦！"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1013"
+    ],
+    "suyueTalk": [
+      "为了父亲，我也要变得更强！"
+    ],
+    "suyueTouckTalk": [
+      "帕特拉会加油的！"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_13"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1014",
+    "body": "hero/doll_card_1014/doll_card_1014",
+    "bust": "card/card_1014/card_1014",
+    "contacBubble": "我即是光明，也是旗帜——圣女贞德在此！",
+    "contactSound": "Sound/Hero_sound/sound_get_1014",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "请您拯救我的国家吧，殿下！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1014",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_14",
+    "failBubble": "圣女，是不会低头的。",
+    "failSound": "Sound/Hero_sound/sound_win_1014",
+    "favorIcon": "favor_avatar/haogan_pixel_head_14",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1014",
+    "id": 1001014,
+    "image_card_bg": "bg_card_1014",
+    "ImageDeviation": [
+      125.0,
+      -750.0
+    ],
+    "ImageScale": 1.5,
+    "lineupBubble": [
+      "圣女，是不会低头的。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_win_1014"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_14",
+    "MvpBubble": "圣女，是不会低头的。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1014",
+    "name": "贞德",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1014",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.5,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "殿下，我就在您身边。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1014"
+    ],
+    "suyueTalk": [
+      "我的旗帜，将为信念而飘扬。"
+    ],
+    "suyueTouckTalk": [
+      "追随这光芒吧。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_15"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1015",
+    "body": "hero/doll_card_1015/doll_card_1015",
+    "bust": "card/card_1015/card_1015",
+    "contacBubble": "只要握有这柄权杖，我的使命就已经注定了。",
+    "contactSound": "Sound/Hero_sound/sound_get_1015",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "本王绝不会懈怠…会一直努力前进到最后一刻。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1015",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_15",
+    "failBubble": "只要握有这柄权杖，我的使命就已经注定了。",
+    "failSound": "Sound/Hero_sound/sound_get_1015",
+    "favorIcon": "favor_avatar/haogan_pixel_head_15",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1015",
+    "id": 1001015,
+    "image_card_bg": "bg_card_1015",
+    "ImageDeviation": [
+      25.0,
+      -350.0
+    ],
+    "ImageScale": 1.2200000286102295,
+    "lineupBubble": [
+      "本王亲自来吧。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1015"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_15",
+    "MvpBubble": "只要握有这柄权杖，我的使命就已经注定了。",
+    "MvpSound": "Sound/Hero_sound/sound_get_1015",
+    "name": "伊丽莎白",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1015",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.25,
+    "scale": 0.30000001192092896,
+    "spBust": "card/card_1015_effect/card_1015_effect",
+    "strenthBubble": [
+      "虽说有些不足，但以你现在的程度，本王姑且接受吧。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1015"
+    ],
+    "suyueTalk": [
+      "本王的决断，即是准则。"
+    ],
+    "suyueTouckTalk": [
+      "你有事要禀报吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_16"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1016",
+    "body": "hero/doll_card_1016/doll_card_1016",
+    "bust": "card/card_1016/card_1016",
+    "contacBubble": "花瓣翩然飘落，仿佛映照着我的爱意。",
+    "contactSound": "Sound/Hero_sound/sound_get_1016",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "我一直期待着能与您相见。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1016",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_16",
+    "failBubble": "花瓣翩然飘落，仿佛映照着我的爱意。",
+    "failSound": "Sound/Hero_sound/sound_get_1016",
+    "favorIcon": "favor_avatar/haogan_pixel_head_16",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1016",
+    "id": 1001016,
+    "image_card_bg": "bg_card_1016",
+    "ImageDeviation": [
+      0.0,
+      -1025.0
+    ],
+    "ImageScale": 1.399999976158142,
+    "lineupBubble": [
+      "准备好与我一起跳舞了吗？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1016"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_16",
+    "MvpBubble": "花瓣翩然飘落，仿佛映照着我的爱意。",
+    "MvpSound": "Sound/Hero_sound/sound_get_1016",
+    "name": "闭月",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1016",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.399999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "哎呀，那么大胆呢。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1016"
+    ],
+    "suyueTalk": [
+      "我的爱，如同这飘落的花瓣一般~"
+    ],
+    "suyueTouckTalk": [
+      "准备好陷入这美丽的漩涡了吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_17"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1017",
+    "body": "hero/doll_card_1017/doll_card_1017",
+    "bust": "card/card_1017/card_1017",
+    "contacBubble": "我见到了倾覆的未来……时间不多了。",
+    "contactSound": "Sound/Hero_sound/sound_get_1017",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "我早就预见，我们一定还会再见面的。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1017",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_17",
+    "failBubble": "你是无法逃脱命运的。",
+    "failSound": "Sound/Hero_sound/sound_win_1017",
+    "favorIcon": "favor_avatar/haogan_pixel_head_17",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1017",
+    "id": 1001017,
+    "image_card_bg": "bg_card_1017",
+    "ImageDeviation": [
+      85.0,
+      -325.0
+    ],
+    "ImageScale": 1.3200000524520874,
+    "lineupBubble": [
+      "你是无法逃脱命运的。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_win_1017"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_17",
+    "MvpBubble": "你是无法逃脱命运的。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1017",
+    "name": "左慈",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1017",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.350000023841858,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "意料之外的感觉……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1017"
+    ],
+    "suyueTalk": [
+      "命运之线，早已缠绕在一起。"
+    ],
+    "suyueTouckTalk": [
+      "你……看见未来了吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_18"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1018",
+    "body": "hero/doll_card_1018/doll_card_1018",
+    "bust": "card/card_1018/card_1018",
+    "contacBubble": "所谓的神官少女，正是在下没错！",
+    "contactSound": "Sound/Hero_sound/sound_get_1018",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "所谓的神官少女，正是在下没错！",
+    "defaultSound": "Sound/Hero_sound/sound_get_1018",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_18",
+    "failBubble": "是神明的气息！通通让开——！",
+    "failSound": "Sound/Hero_sound/sound_win_1018",
+    "favorIcon": "favor_avatar/haogan_pixel_head_18",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1018",
+    "id": 1001018,
+    "image_card_bg": "bg_card_1018",
+    "ImageDeviation": [
+      25.0,
+      -450.0
+    ],
+    "ImageScale": 1.399999976158142,
+    "lineupBubble": [
+      "想尝尝神明的怒火吗？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1018"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_18",
+    "MvpBubble": "是神明的气息！通通让开——！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1018",
+    "name": "菊理媛命",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1018",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.399999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "看来连神明都喜欢这样呢！"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1018"
+    ],
+    "suyueTalk": [
+      "凡人，当敬畏神明。"
+    ],
+    "suyueTouckTalk": [
+      "想尝尝神罚的滋味吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_19"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1019",
+    "body": "hero/doll_card_1019/doll_card_1019",
+    "bust": "card/card_1019/card_1019",
+    "contacBubble": "嘿嘿，我的刀在渴求着猎物呢。",
+    "contactSound": "Sound/Hero_sound/sound_get_1019",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "你好呀，我们又见面了！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1019",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_19",
+    "failBubble": "嘿嘿，我的刀在渴求着猎物呢。",
+    "failSound": "Sound/Hero_sound/sound_get_1019",
+    "favorIcon": "favor_avatar/haogan_pixel_head_19",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1019",
+    "id": 1001019,
+    "image_card_bg": "bg_card_1019",
+    "ImageDeviation": [
+      0.0,
+      -225.0
+    ],
+    "ImageScale": 1.149999976158142,
+    "lineupBubble": [
+      "来好好地感受我的厉害之处吧！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1019"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_19",
+    "MvpBubble": "嘿嘿，我的刀在渴求着猎物呢。",
+    "MvpSound": "Sound/Hero_sound/sound_get_1019",
+    "name": "于吉",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1019",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.149999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "果然如我所想呢……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1019"
+    ],
+    "suyueTalk": [
+      "嘿嘿，我的刀刃已经饥渴难耐了。"
+    ],
+    "suyueTouckTalk": [
+      "你……是我的猎物吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_20"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1020",
+    "body": "hero/doll_card_1020/doll_card_1020",
+    "bust": "card/card_1020/card_1020",
+    "contacBubble": "苍天已死，新的黄天，由我等来立！",
+    "contactSound": "Sound/Hero_sound/sound_get_1020",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "安康。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1020",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_20",
+    "failBubble": "就算被烧成焦炭了，也别想着抱怨哦！",
+    "failSound": "Sound/Hero_sound/sound_win_1020",
+    "favorIcon": "favor_avatar/haogan_pixel_head_20",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1020",
+    "id": 1001020,
+    "image_card_bg": "bg_card_1020",
+    "ImageDeviation": [
+      0.0,
+      -670.0
+    ],
+    "ImageScale": 1.75,
+    "lineupBubble": [
+      "雷公，助我！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1020"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_20",
+    "MvpBubble": "就算被烧成焦炭了，也别想着抱怨哦！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1020",
+    "name": "张角",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1020",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.75,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "仅这些，就是你对本天师的态度吗？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1020"
+    ],
+    "suyueTalk": [
+      "黄天在上，见证我等伟业！"
+    ],
+    "suyueTouckTalk": [
+      "雷公助我！……啊，是你在叫我。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_21"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1021",
+    "body": "hero/doll_card_1021/doll_card_1021",
+    "bust": "card/card_1021/card_1021",
+    "contacBubble": "给这无聊的日子添点活力吧！",
+    "contactSound": "Sound/Hero_sound/sound_get_1021",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "要不要和我一起去旅行呢？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1021",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_21",
+    "failBubble": "给这无聊的日子添点活力吧！",
+    "failSound": "Sound/Hero_sound/sound_get_1021",
+    "favorIcon": "favor_avatar/haogan_pixel_head_21",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1021",
+    "id": 1001021,
+    "image_card_bg": "bg_card_1021",
+    "ImageDeviation": [
+      0.0,
+      -480.0
+    ],
+    "ImageScale": 1.399999976158142,
+    "lineupBubble": [
+      "看来会是一场完美的演出呢！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1021"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_21",
+    "MvpBubble": "给这无聊的日子添点活力吧！",
+    "MvpSound": "Sound/Hero_sound/sound_get_1021",
+    "name": "卡门",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1021",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.399999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "啊啊…这感觉也不坏呢。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1021"
+    ],
+    "suyueTalk": [
+      "让这场表演，更加热烈些吧！"
+    ],
+    "suyueTouckTalk": [
+      "你也是来看我演出的吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_22"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1022",
+    "body": "hero/doll_card_1022/doll_card_1022",
+    "bust": "card/card_1022/card_1022",
+    "contacBubble": "以不朽的意志，动摇这混沌的世界吧！",
+    "contactSound": "Sound/Hero_sound/sound_get_1022",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "我是来自斯巴达的勇士，应召而至！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1022",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_22",
+    "failBubble": "真理是不会屈服于蛮力的！",
+    "failSound": "Sound/Hero_sound/sound_fight_1022",
+    "favorIcon": "favor_avatar/haogan_pixel_head_22",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1022",
+    "id": 1001022,
+    "image_card_bg": "bg_card_1022",
+    "ImageDeviation": [
+      25.0,
+      -300.0
+    ],
+    "ImageScale": 1.2799999713897705,
+    "lineupBubble": [
+      "真理是不会屈服于蛮力的！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1022"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_22",
+    "MvpBubble": "真理是不会屈服于蛮力的！",
+    "MvpSound": "Sound/Hero_sound/sound_fight_1022",
+    "name": "斯巴达克斯",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1022",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2000000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "这……也是训练的一环吗？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1022"
+    ],
+    "suyueTalk": [
+      "我的意志，绝不会在此折断！"
+    ],
+    "suyueTouckTalk": [
+      "要一起动摇这个世界吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_23"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1023",
+    "body": "hero/doll_card_1023/doll_card_1023",
+    "bust": "card/card_1023/card_1023",
+    "contacBubble": "如太阳般的伟大勇气，绝不承认败北的精神。",
+    "contactSound": "Sound/Hero_sound/sound_get_1023",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "你，是在玩火吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1023",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_23",
+    "failBubble": "哼，一群厚颜无耻的家伙。",
+    "failSound": "Sound/Hero_sound/sound_win_1023",
+    "favorIcon": "favor_avatar/haogan_pixel_head_23",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1023",
+    "id": 1001023,
+    "image_card_bg": "bg_card_1023",
+    "ImageDeviation": [
+      0.0,
+      -400.0
+    ],
+    "ImageScale": 1.2999999523162842,
+    "lineupBubble": [
+      "吾之太阳啊！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1023"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_23",
+    "MvpBubble": "哼，一群厚颜无耻的家伙。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1023",
+    "name": "天照",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1023",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.350000023841858,
+    "scale": 0.30000001192092896,
+    "spBust": "card/card_1023_effect/card_1023_effect",
+    "strenthBubble": [
+      "哼，看来你做好觉悟了？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1023"
+    ],
+    "suyueTalk": [
+      "吾之光辉，永耀世间。"
+    ],
+    "suyueTouckTalk": [
+      "太阳的勇气，与你同在。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_24"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1024",
+    "body": "hero/doll_card_1024/doll_card_1024",
+    "bust": "card/card_1024/card_1024",
+    "contacBubble": "呐，感觉身体热起来了呢。",
+    "contactSound": "Sound/Hero_sound/sound_get_1024",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "啊啦，是想要一起做有趣的事情吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1024",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_24",
+    "failBubble": "我可不会轻易屈服。",
+    "failSound": "Sound/Hero_sound/sound_win_1024",
+    "favorIcon": "favor_avatar/haogan_pixel_head_24",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1024",
+    "id": 1001024,
+    "image_card_bg": "bg_card_1024",
+    "ImageDeviation": [
+      50.0,
+      -200.0
+    ],
+    "ImageScale": 1.0700000524520874,
+    "lineupBubble": [
+      "我就在这里哦。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1024"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_24",
+    "MvpBubble": "我可不会轻易屈服。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1024",
+    "name": "白素贞",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1024",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0,
+    "scale": 0.30000001192092896,
+    "spBust": "card/card_1024_effect/card_1024_effect",
+    "strenthBubble": [
+      "嗯……还不错嘛。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1024"
+    ],
+    "suyueTalk": [
+      "这里很安全，请过来吧。"
+    ],
+    "suyueTouckTalk": [
+      "你的体温……很温暖呢。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_25"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1025",
+    "body": "hero/doll_card_1025/doll_card_1025",
+    "bust": "card/card_1025/card_1025",
+    "contacBubble": "今夜月色真美，不知是否有良人相伴……",
+    "contactSound": "Sound/Hero_sound/sound_get_1025",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "又…见面了呢。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1025",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_25",
+    "failBubble": "我将把祈愿，寄托在这烟花之中。",
+    "failSound": "Sound/Hero_sound/sound_win_1025",
+    "favorIcon": "favor_avatar/haogan_pixel_head_25",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1025",
+    "id": 1001025,
+    "image_card_bg": "bg_card_1025",
+    "ImageDeviation": [
+      -150.0,
+      -525.0
+    ],
+    "ImageScale": 1.2999999523162842,
+    "lineupBubble": [
+      "肃清敌人吧！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1025"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_25",
+    "MvpBubble": "我将把祈愿，寄托在这烟花之中。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1025",
+    "name": "嫦娥",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1025",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2999999523162842,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "嗯……就是这种感觉。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1025"
+    ],
+    "suyueTalk": [
+      "月华清冷，却也寂寞……"
+    ],
+    "suyueTouckTalk": [
+      "你……是来自人间的良人吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_26"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1026",
+    "body": "hero/doll_card_1026/doll_card_1026",
+    "bust": "card/card_1026/card_1026",
+    "contacBubble": "你的心之所想，我都可以给你。",
+    "contactSound": "Sound/Hero_sound/sound_get_1026",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "您又在等我了吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1026",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_26",
+    "failBubble": "这样，您满意了吗？",
+    "failSound": "Sound/Hero_sound/sound_win_1026",
+    "favorIcon": "favor_avatar/haogan_pixel_head_26",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1026",
+    "id": 1001026,
+    "image_card_bg": "bg_card_1026",
+    "ImageDeviation": [
+      100.0,
+      -550.0
+    ],
+    "ImageScale": 1.2000000476837158,
+    "lineupBubble": [
+      "这就对了。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1026"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_26",
+    "MvpBubble": "这样，您满意了吗？",
+    "MvpSound": "Sound/Hero_sound/sound_win_1026",
+    "name": "洛神",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1026",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2000000476837158,
+    "scale": 0.30000001192092896,
+    "spBust": "card/card_1026_effect/card_1026_effect",
+    "strenthBubble": [
+      "真棒呢，就这样继续下去吧。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1026"
+    ],
+    "suyueTalk": [
+      "你的心愿，我已听闻。"
+    ],
+    "suyueTouckTalk": [
+      "这就满足你的愿望。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_27"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1027",
+    "body": "hero/doll_card_1027/doll_card_1027",
+    "bust": "card/card_1027/card_1027",
+    "contacBubble": "我会誓死守护帝国的荣光！",
+    "contactSound": "Sound/Hero_sound/sound_get_1027",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "主人，今天心情还好吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1027",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_27",
+    "failBubble": "可不要小看守护者的意志！",
+    "failSound": "Sound/Hero_sound/sound_win_1027",
+    "favorIcon": "favor_avatar/haogan_pixel_head_27",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1027",
+    "id": 1001027,
+    "image_card_bg": "bg_card_1027",
+    "ImageDeviation": [
+      0.0,
+      -600.0
+    ],
+    "ImageScale": 1.149999976158142,
+    "lineupBubble": [
+      "上吧！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1027"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_27",
+    "MvpBubble": "可不要小看守护者的意志！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1027",
+    "name": "腓特烈",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1027",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.149999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "嗯，感觉并不坏……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1027"
+    ],
+    "suyueTalk": [
+      "为了帝国的荣耀！"
+    ],
+    "suyueTouckTalk": [
+      "与我一同前进吧。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_28"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1028",
+    "body": "hero/doll_card_1028/doll_card_1028",
+    "bust": "card/card_1028/card_1028",
+    "contacBubble": "想得到我的信赖可是很难的哦！",
+    "contactSound": "Sound/Hero_sound/sound_get_1028",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "又见面了呢。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1028",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_28",
+    "failBubble": "哎呀，还挺有趣的嘛！",
+    "failSound": "Sound/Hero_sound/sound_win_1028",
+    "favorIcon": "favor_avatar/haogan_pixel_head_28",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1028",
+    "id": 1001028,
+    "image_card_bg": "bg_card_1028",
+    "ImageDeviation": [
+      25.0,
+      -400.0
+    ],
+    "ImageScale": 1.2000000476837158,
+    "lineupBubble": [
+      "啊啊，又是麻烦的事情……"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1028"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_28",
+    "MvpBubble": "哎呀，还挺有趣的嘛！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1028",
+    "name": "凯撒",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1028",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.149999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "嘛……倒也不是不行……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1028"
+    ],
+    "suyueTalk": [
+      "啊啊……文件堆成山了，真头疼。"
+    ],
+    "suyueTouckTalk": [
+      "想得到我的认可？还早着呢。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_29"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1029",
+    "body": "hero/doll_card_1029/doll_card_1029",
+    "bust": "card/card_1029/card_1029",
+    "contacBubble": "都臣服在我的脚下吧！",
+    "contactSound": "Sound/Hero_sound/sound_get_1029",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "向您致以最高的敬意。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1029",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_29",
+    "failBubble": "就这点程度吗？",
+    "failSound": "Sound/Hero_sound/sound_win_1029",
+    "favorIcon": "favor_avatar/haogan_pixel_head_29",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1029",
+    "id": 1001029,
+    "image_card_bg": "bg_card_1029",
+    "ImageDeviation": [
+      0.0,
+      -250.0
+    ],
+    "ImageScale": 1.2999999523162842,
+    "lineupBubble": [
+      "卑贱之徒们，把命献上吧！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1029"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_29",
+    "MvpBubble": "就这点程度吗？",
+    "MvpSound": "Sound/Hero_sound/sound_win_1029",
+    "name": "拿破仑",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1029",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2999999523162842,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "嗯？想让我接受你的投降吗？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1029"
+    ],
+    "suyueTalk": [
+      "我的帝国，需要更多的疆土。"
+    ],
+    "suyueTouckTalk": [
+      "跪拜吧，这是你的荣耀。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_30"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1030",
+    "body": "hero/doll_card_1030/doll_card_1030",
+    "bust": "card/card_1030/card_1030",
+    "contacBubble": "欢迎来到我的王国~",
+    "contactSound": "Sound/Hero_sound/sound_get_1030",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "欢迎来到我的王国~",
+    "defaultSound": "Sound/Hero_sound/sound_get_1030",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_30",
+    "failBubble": "这将被我视为对王权的挑战。",
+    "failSound": "Sound/Hero_sound/sound_win_1030",
+    "favorIcon": "favor_avatar/haogan_pixel_head_30",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1030",
+    "id": 1001030,
+    "image_card_bg": "bg_card_1030",
+    "ImageDeviation": [
+      -75.0,
+      -250.0
+    ],
+    "ImageScale": 1.2200000286102295,
+    "lineupBubble": [
+      "我会帮你一把的。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1030"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_30",
+    "MvpBubble": "这将被我视为对王权的挑战。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1030",
+    "name": "狮心理查",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1030",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2200000286102295,
+    "scale": 0.30000001192092896,
+    "spBust": "card/card_1030_effect/card_1030_effect",
+    "strenthBubble": [
+      "哎呀……你是想和我在一起吗？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1030"
+    ],
+    "suyueTalk": [
+      "欢迎来到我的领地。"
+    ],
+    "suyueTouckTalk": [
+      "需要我的帮助吗？尽管说吧。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_31"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1031",
+    "body": "hero/doll_card_1031/doll_card_1031",
+    "bust": "card/card_1031/card_1031",
+    "contacBubble": "那些废物，甚至都不值得我弄脏刀锋。",
+    "contactSound": "Sound/Hero_sound/sound_get_1031",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "和我相遇算是你的不幸，做好觉悟吧！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1031",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_31",
+    "failBubble": "在下是，伊达政宗。",
+    "failSound": "Sound/Hero_sound/sound_win_1031",
+    "favorIcon": "favor_avatar/haogan_pixel_head_31",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1031",
+    "id": 1001031,
+    "image_card_bg": "bg_card_1018",
+    "ImageDeviation": [
+      0.0,
+      -150.0
+    ],
+    "ImageScale": 1.0800000429153442,
+    "lineupBubble": [
+      "好啊，出征吧！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1031"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_31",
+    "MvpBubble": "在下是，伊达政宗。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1031",
+    "name": "伊达政宗",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1031",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0800000429153442,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "哦……有两下子嘛。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1031"
+    ],
+    "suyueTalk": [
+      "我的刀，只为真正的对手出鞘。"
+    ],
+    "suyueTouckTalk": [
+      "哦？想和我一起出征吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_32"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1032",
+    "body": "hero/doll_card_1032/doll_card_1032",
+    "bust": "card/card_1032/card_1032",
+    "contacBubble": "做好被我劈成两段的觉悟了吗？",
+    "contactSound": "Sound/Hero_sound/sound_get_1032",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "又见面了呢！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1032",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_32",
+    "failBubble": "接受我的怒火吧！",
+    "failSound": "Sound/Hero_sound/sound_win_1032",
+    "favorIcon": "favor_avatar/haogan_pixel_head_32",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1032",
+    "id": 1001032,
+    "image_card_bg": "bg_card_1005",
+    "ImageDeviation": [
+      100.0,
+      -450.0
+    ],
+    "ImageScale": 1.4500000476837158,
+    "lineupBubble": [
+      "做好觉悟吧！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1032"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_32",
+    "MvpBubble": "接受我的怒火吧！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1032",
+    "name": "宫本武藏",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1032",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.399999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "真我不拘于形！"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1032"
+    ],
+    "suyueTalk": [
+      "二天一流，无人能敌。"
+    ],
+    "suyueTouckTalk": [
+      "你，有与我交手的觉悟吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_33"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1033",
+    "body": "hero/doll_card_1033/doll_card_1033",
+    "bust": "card/card_1033/card_1033",
+    "contacBubble": "剑士的觉悟，可不会轻易被打破。",
+    "contactSound": "Sound/Hero_sound/sound_get_1033",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "幸会！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1033",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_33",
+    "failBubble": "剑士的觉悟，可不会轻易被打破。",
+    "failSound": "Sound/Hero_sound/sound_get_1033",
+    "favorIcon": "favor_avatar/haogan_pixel_head_33",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1033",
+    "id": 1001033,
+    "image_card_bg": "bg_card_1033",
+    "ImageDeviation": [
+      0.0,
+      -380.0
+    ],
+    "ImageScale": 1.4500000476837158,
+    "lineupBubble": [
+      "好，只有这样了。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1033"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_33",
+    "MvpBubble": "剑士的觉悟，可不会轻易被打破。",
+    "MvpSound": "Sound/Hero_sound/sound_get_1033",
+    "name": "德川家康",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1033",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.4500000476837158,
+    "scale": 0.30000001192092896,
+    "spBust": "card/card_1033_effect/card_1033_effect",
+    "strenthBubble": [
+      "我在此立誓，一定会守护你到底。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1033"
+    ],
+    "suyueTalk": [
+      "忍耐与等待，亦是武略。"
+    ],
+    "suyueTouckTalk": [
+      "我的觉悟，可不会轻易动摇。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_34"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1034",
+    "body": "hero/doll_card_1034/doll_card_1034",
+    "bust": "card/card_1034/card_1034",
+    "contacBubble": "武田信玄，参上！",
+    "contactSound": "Sound/Hero_sound/sound_get_1034",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "你……与我昔日的一位旧识颇为相似呢。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1034",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_34",
+    "failBubble": "武田信玄，参上！",
+    "failSound": "Sound/Hero_sound/sound_get_1034",
+    "favorIcon": "favor_avatar/haogan_pixel_head_34",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1034",
+    "id": 1001034,
+    "image_card_bg": "bg_card_1034",
+    "ImageDeviation": [
+      -35.0,
+      -225.0
+    ],
+    "ImageScale": 1.2000000476837158,
+    "lineupBubble": [
+      "击破敌人！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1034"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_34",
+    "MvpBubble": "武田信玄，参上！",
+    "MvpSound": "Sound/Hero_sound/sound_get_1034",
+    "name": "武田信玄",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1034",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2000000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "也不是完全不喜欢……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1034"
+    ],
+    "suyueTalk": [
+      "风林火山！其疾如风！"
+    ],
+    "suyueTouckTalk": [
+      "武田家的军旗，由我来守护！"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_35"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1035",
+    "body": "hero/doll_card_1035/doll_card_1035",
+    "bust": "card/card_1035/card_1035",
+    "contacBubble": "纵然吟诗千首，这颗空虚的心，也唯有爱能将其填满。",
+    "contactSound": "Sound/Hero_sound/sound_get_1035",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "殿下，有想到什么好诗吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1035",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_35",
+    "failBubble": "纵然吟诗千首，这颗空虚的心，也唯有爱能将其填满。",
+    "failSound": "Sound/Hero_sound/sound_get_1035",
+    "favorIcon": "favor_avatar/haogan_pixel_head_35",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1035",
+    "id": 1001035,
+    "image_card_bg": "bg_card_1040",
+    "ImageDeviation": [
+      -75.0,
+      -400.0
+    ],
+    "ImageScale": 1.1399999856948853,
+    "lineupBubble": [
+      "安好。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1035"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_35",
+    "MvpBubble": "纵然吟诗千首，这颗空虚的心，也唯有爱能将其填满。",
+    "MvpSound": "Sound/Hero_sound/sound_get_1035",
+    "name": "和泉式部",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1035",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2000000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "心里暖暖的……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1035"
+    ],
+    "suyueTalk": [
+      "百首和歌，也难诉衷肠。"
+    ],
+    "suyueTouckTalk": [
+      "你愿意……倾听我的心事吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_36"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1036",
+    "body": "hero/doll_card_1036/doll_card_1036",
+    "bust": "card/card_1036/card_1036",
+    "contacBubble": "别、别想违抗我！我会把你切碎的哦！",
+    "contactSound": "Sound/Hero_sound/sound_get_1036",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "我们已经是朋友了，对吧？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1036",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_36",
+    "failBubble": "下、下次会把你砍断的！",
+    "failSound": "Sound/Hero_sound/sound_win_1036",
+    "favorIcon": "favor_avatar/haogan_pixel_head_36",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1036",
+    "id": 1001036,
+    "image_card_bg": "bg_card_1036",
+    "ImageDeviation": [
+      75.0,
+      -600.0
+    ],
+    "ImageScale": 1.3200000524520874,
+    "lineupBubble": [
+      "我，我要拔刀了哦！？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1036"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_36",
+    "MvpBubble": "下、下次会把你砍断的！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1036",
+    "name": "立花訚千代",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1036",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.399999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "身体感觉怪怪的……真是的……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1036"
+    ],
+    "suyueTalk": [
+      "我、我才不会害怕呢！"
+    ],
+    "suyueTouckTalk": [
+      "别过来！不然我……我真的会砍你的哦！"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_37"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1037",
+    "body": "hero/doll_card_1037/doll_card_1037",
+    "bust": "card/card_1037/card_1037",
+    "contacBubble": "你觉得谁才是最强的快枪手？",
+    "contactSound": "Sound/Hero_sound/sound_get_1037",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "戈壁上的沙漠之鹰，参上！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1037",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_37",
+    "failBubble": "击毙！",
+    "failSound": "Sound/Hero_sound/sound_win_1037",
+    "favorIcon": "favor_avatar/haogan_pixel_head_37",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1037",
+    "id": 1001037,
+    "image_card_bg": "bg_card_1046",
+    "ImageDeviation": [
+      75.0,
+      -200.0
+    ],
+    "ImageScale": 1.0499999523162842,
+    "lineupBubble": [
+      "击毙！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_win_1037"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_37",
+    "MvpBubble": "击毙！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1037",
+    "name": "织田信长",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1037",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0499999523162842,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "哼哼，感觉还不坏吧！"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1037"
+    ],
+    "suyueTalk": [
+      "天下布武，就在今朝！"
+    ],
+    "suyueTouckTalk": [
+      "想试试我的枪快，还是你的剑利吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_38"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1038",
+    "body": "hero/doll_card_1038/doll_card_1038",
+    "bust": "card/card_1038/card_1038",
+    "contacBubble": "绝对会守护好主人的！",
+    "contactSound": "Sound/Hero_sound/sound_get_1038",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "主人，我们又见面了呢。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1038",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_38",
+    "failBubble": "绝对会守护好主人的！",
+    "failSound": "Sound/Hero_sound/sound_get_1038",
+    "favorIcon": "favor_avatar/haogan_pixel_head_38",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1038",
+    "id": 1001038,
+    "image_card_bg": "bg_card_1038",
+    "ImageDeviation": [
+      50.0,
+      -450.0
+    ],
+    "ImageScale": 1.25,
+    "lineupBubble": [
+      "绝对不允许任何人伤害主人！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1038"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_38",
+    "MvpBubble": "绝对会守护好主人的！",
+    "MvpSound": "Sound/Hero_sound/sound_get_1038",
+    "name": "步练师",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1038",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.4500000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "如果能成为主人的安慰就好了……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1038"
+    ],
+    "suyueTalk": [
+      "守护主人，是我存在的意义。"
+    ],
+    "suyueTouckTalk": [
+      "有我在，绝不会让您受伤！"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_39"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1039",
+    "body": "hero/doll_card_1039/doll_card_1039",
+    "bust": "card/card_1039/card_1039",
+    "contacBubble": "替我祈祷吧，让我能乘上风的怀抱～",
+    "contactSound": "Sound/Hero_sound/sound_get_1039",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "呼呼……你好呀！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1039",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_39",
+    "failBubble": "风啊，对我来说可是一直以来的好朋友呢！",
+    "failSound": "Sound/Hero_sound/sound_win_1039",
+    "favorIcon": "favor_avatar/haogan_pixel_head_39",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1039",
+    "id": 1001039,
+    "image_card_bg": "bg_card_1039",
+    "ImageDeviation": [
+      -50.0,
+      -275.0
+    ],
+    "ImageScale": 1.100000023841858,
+    "lineupBubble": [
+      "风啊，把他们都吹飞吧！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1039"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_39",
+    "MvpBubble": "风啊，对我来说可是一直以来的好朋友呢！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1039",
+    "name": "小乔",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1039",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.100000023841858,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "想被你温柔地抚摸呢……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1039"
+    ],
+    "suyueTalk": [
+      "风啊，请带我去远方看看吧~"
+    ],
+    "suyueTouckTalk": [
+      "要和我一起，乘着风飞翔吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_40"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1040",
+    "body": "hero/doll_card_1040/doll_card_1040",
+    "bust": "card/card_1040/card_1040",
+    "contacBubble": "我可不是你想见就能随时见到的人哟。",
+    "contactSound": "Sound/Hero_sound/sound_get_1040",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "哎呀，就是你一直在呼唤我吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1040",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_40",
+    "failBubble": "我可不是你想见就能随时见到的人哟。",
+    "failSound": "Sound/Hero_sound/sound_get_1040",
+    "favorIcon": "favor_avatar/haogan_pixel_head_40",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1040",
+    "id": 1001040,
+    "image_card_bg": "bg_card_1040",
+    "ImageDeviation": [
+      0.0,
+      -700.0
+    ],
+    "ImageScale": 1.399999976158142,
+    "lineupBubble": [
+      "是谁在呼唤我？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1040"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_40",
+    "MvpBubble": "我可不是你想见就能随时见到的人哟。",
+    "MvpSound": "Sound/Hero_sound/sound_get_1040",
+    "name": "潘淑",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1040",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.4500000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "哎呀……难不成这是能带来幸福的法术？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1040"
+    ],
+    "suyueTalk": [
+      "可不是什么人都能见到我的。"
+    ],
+    "suyueTouckTalk": [
+      "是你呼唤我吗？……最好是有要事。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_41"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1041",
+    "body": "hero/doll_card_1041/doll_card_1041",
+    "bust": "card/card_1041/card_1041",
+    "contacBubble": "让我的心意，随着这笛声传递出去……",
+    "contactSound": "Sound/Hero_sound/sound_get_1041",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "今夜，要不要和我一起度过一个美妙的夜晚呢？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1041",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_41",
+    "failBubble": "让我的心意，随着这笛声传递出去……",
+    "failSound": "Sound/Hero_sound/sound_get_1041",
+    "favorIcon": "favor_avatar/haogan_pixel_head_41",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1041",
+    "id": 1001041,
+    "image_card_bg": "bg_card_1041",
+    "ImageDeviation": [
+      75.0,
+      -255.0
+    ],
+    "ImageScale": 1.2000000476837158,
+    "lineupBubble": [
+      "你、你好。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1041"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_41",
+    "MvpBubble": "让我的心意，随着这笛声传递出去……",
+    "MvpSound": "Sound/Hero_sound/sound_get_1041",
+    "name": "大乔",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1041",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2000000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "也、也不是不能接受……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1041"
+    ],
+    "suyueTalk": [
+      "希、希望这笛声能传达到……"
+    ],
+    "suyueTouckTalk": [
+      "呀！对、对不起，我有点紧张……"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_42"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1042",
+    "body": "hero/doll_card_1042/doll_card_1042",
+    "bust": "card/card_1042/card_1042",
+    "contacBubble": "燃烧吧，我的烈焰！",
+    "contactSound": "Sound/Hero_sound/sound_get_1042",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "找我有什么事吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1042",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_42",
+    "failBubble": "把热情的火烧得再烈一些吧！",
+    "failSound": "Sound/Hero_sound/sound_win_1042",
+    "favorIcon": "favor_avatar/haogan_pixel_head_42",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1042",
+    "id": 1001042,
+    "image_card_bg": "bg_card_1042",
+    "ImageDeviation": [
+      0.0,
+      -550.0
+    ],
+    "ImageScale": 1.149999976158142,
+    "lineupBubble": [
+      "燃烧吧！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1042"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_42",
+    "MvpBubble": "把热情的火烧得再烈一些吧！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1042",
+    "name": "甘宁",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1042",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.100000023841858,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "这样，好歹也算有点样子了！"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1042"
+    ],
+    "suyueTalk": [
+      "热血，已经开始沸腾了！"
+    ],
+    "suyueTouckTalk": [
+      "要和我一起，点燃这场战火吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_43"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1043",
+    "body": "hero/doll_card_1043/doll_card_1043",
+    "bust": "card/card_1043/card_1043",
+    "contacBubble": "天下尽在我的手中。",
+    "contactSound": "Sound/Hero_sound/sound_get_1043",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "辛苦你来迎接我了。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1043",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_43",
+    "failBubble": "天下尽在我的手中。",
+    "failSound": "Sound/Hero_sound/sound_get_1043",
+    "favorIcon": "favor_avatar/haogan_pixel_head_43",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1043",
+    "id": 1001043,
+    "image_card_bg": "bg_card_1053",
+    "ImageDeviation": [
+      -100.0,
+      -1025.0
+    ],
+    "ImageScale": 1.3700000047683716,
+    "lineupBubble": [
+      "真是大胆。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1043"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_43",
+    "MvpBubble": "天下尽在我的手中。",
+    "MvpSound": "Sound/Hero_sound/sound_get_1043",
+    "name": "嬴政",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1043",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.399999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "就这样以侍奉我为荣吧。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1043"
+    ],
+    "suyueTalk": [
+      "这天下，皆是朕的庭院。"
+    ],
+    "suyueTouckTalk": [
+      "直视朕，可是需要勇气的。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_44"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1044",
+    "body": "hero/doll_card_1044/doll_card_1044",
+    "bust": "card/card_1044/card_1044",
+    "contacBubble": "哼，是谁说女子不如男的？",
+    "contactSound": "Sound/Hero_sound/sound_get_1044",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "你好啊，无礼的家伙。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1044",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_44",
+    "failBubble": "哼，是谁说女子不如男的？",
+    "failSound": "Sound/Hero_sound/sound_get_1044",
+    "favorIcon": "favor_avatar/haogan_pixel_head_44",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1044",
+    "id": 1001044,
+    "image_card_bg": "bg_card_1044",
+    "ImageDeviation": [
+      0.0,
+      -650.0
+    ],
+    "ImageScale": 1.2999999523162842,
+    "lineupBubble": [
+      "来，是时候把酒满上了！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1044"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_44",
+    "MvpBubble": "哼，是谁说女子不如男的？",
+    "MvpSound": "Sound/Hero_sound/sound_get_1044",
+    "name": "花木兰",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1044",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.899999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "居然，是如此美妙的感觉……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1044"
+    ],
+    "suyueTalk": [
+      "谁说女子就不能上阵杀敌了？"
+    ],
+    "suyueTouckTalk": [
+      "来，干了这碗酒，我们是战友了！"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_45"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1045",
+    "body": "hero/doll_card_1045/doll_card_1045",
+    "bust": "card/card_1045/card_1045",
+    "contacBubble": "今夜的风，有些凉呢。",
+    "contactSound": "Sound/Hero_sound/sound_get_1045",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "呵呵，又见面了呢。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1045",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_45",
+    "failBubble": "讨厌的感觉……",
+    "failSound": "Sound/Hero_sound/sound_win_1045",
+    "favorIcon": "favor_avatar/haogan_pixel_head_45",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1045",
+    "id": 1001045,
+    "image_card_bg": "bg_card_1039",
+    "ImageDeviation": [
+      0.0,
+      -300.0
+    ],
+    "ImageScale": 1.1699999570846558,
+    "lineupBubble": [
+      "今夜的风，有些凉呢。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_get_1045"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_45",
+    "MvpBubble": "讨厌的感觉……",
+    "MvpSound": "Sound/Hero_sound/sound_win_1045",
+    "name": "瑶姬",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1045",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2000000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "我……一直在等待这一刻……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1045"
+    ],
+    "suyueTalk": [
+      "风带来了远方的思念。"
+    ],
+    "suyueTouckTalk": [
+      "今夜的风，因你而温暖了些。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_46"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1046",
+    "body": "hero/doll_card_1046/doll_card_1046",
+    "bust": "card/card_1046/card_1046",
+    "contacBubble": "吾即便是死，也仍然是西楚霸王！",
+    "contactSound": "Sound/Hero_sound/sound_get_1046",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "即便生于乱世，也要鼎立于天下！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1046",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_46",
+    "failBubble": "哈哈哈哈，这是我的战场！",
+    "failSound": "Sound/Hero_sound/sound_win_1046",
+    "favorIcon": "favor_avatar/haogan_pixel_head_46",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1046",
+    "id": 1001046,
+    "image_card_bg": "bg_card_1046",
+    "ImageDeviation": [
+      100.0,
+      -450.0
+    ],
+    "ImageScale": 1.5299999713897705,
+    "lineupBubble": [
+      "这是挑衅吗？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1046"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_46",
+    "MvpBubble": "哈哈哈哈，这是我的战场！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1046",
+    "name": "项羽",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1046",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.600000023841858,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "好吧，感觉不坏。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1046"
+    ],
+    "suyueTalk": [
+      "力拔山兮气盖世！"
+    ],
+    "suyueTouckTalk": [
+      "你在挑战我吗？有意思。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_47"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1047",
+    "body": "hero/doll_card_1047/doll_card_1047",
+    "bust": "card/card_1047/card_1047",
+    "contacBubble": "为了成就我的霸业，民众的牺牲是理所当然的事。",
+    "contactSound": "Sound/Hero_sound/sound_get_1047",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "过得好吗？我愚蠢的王。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1047",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_47",
+    "failBubble": "再去收割更多的生命吧！",
+    "failSound": "Sound/Hero_sound/sound_fight_1047",
+    "favorIcon": "favor_avatar/haogan_pixel_head_47",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1047",
+    "id": 1001047,
+    "image_card_bg": "bg_card_1047",
+    "ImageDeviation": [
+      0.0,
+      -450.0
+    ],
+    "ImageScale": 1.399999976158142,
+    "lineupBubble": [
+      "再去收割更多的生命吧！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1047"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_47",
+    "MvpBubble": "再去收割更多的生命吧！",
+    "MvpSound": "Sound/Hero_sound/sound_fight_1047",
+    "name": "董卓",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1047",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.600000023841858,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "凭这些就想让我欢喜吗？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1047"
+    ],
+    "suyueTalk": [
+      "霸业之路，总是由尸骨铺就。"
+    ],
+    "suyueTouckTalk": [
+      "哼哼，你又为我带来了什么战利品？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_48"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1048",
+    "body": "hero/doll_card_1048/doll_card_1048",
+    "bust": "card/card_1048/card_1048",
+    "contacBubble": "后排的朋友们，让我看到你们的双手！",
+    "contactSound": "Sound/Hero_sound/sound_get_1048",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "要不要来我的演唱会，给你专属折扣哦！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1048",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_48",
+    "failBubble": "我可是全宇宙人气第一的超级偶像！",
+    "failSound": "Sound/Hero_sound/sound_win_1048",
+    "favorIcon": "favor_avatar/haogan_pixel_head_48",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1048",
+    "id": 1001048,
+    "image_card_bg": "bg_card_1049",
+    "ImageDeviation": [
+      0.0,
+      -625.0
+    ],
+    "ImageScale": 1.25,
+    "lineupBubble": [
+      "超级偶像，登场！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1048"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_48",
+    "MvpBubble": "我可是全宇宙人气第一的超级偶像！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1048",
+    "name": "曹植",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1048",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.25,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "你，胆子还真是越来越大了呢！"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1048"
+    ],
+    "suyueTalk": [
+      "让聚光灯，聚焦于此！"
+    ],
+    "suyueTouckTalk": [
+      "一起享受这雷鸣般的欢呼吧！"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_49"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1049",
+    "body": "hero/doll_card_1049/doll_card_1049",
+    "bust": "card/card_1049/card_1049",
+    "contacBubble": "你要是敢动一下，我就把你的头打碎哦！",
+    "contactSound": "Sound/Hero_sound/sound_get_1049",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "是不是想见我了呀？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1049",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_49",
+    "failBubble": "噢噢噢！被我打飞得真远啊！",
+    "failSound": "Sound/Hero_sound/sound_win_1049",
+    "favorIcon": "favor_avatar/haogan_pixel_head_49",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1049",
+    "id": 1001049,
+    "image_card_bg": "bg_card_1049",
+    "ImageDeviation": [
+      50.0,
+      -150.0
+    ],
+    "ImageScale": 1.0,
+    "lineupBubble": [
+      "就算挨揍了，也不许抱怨哦？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1049"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_49",
+    "MvpBubble": "噢噢噢！被我打飞得真远啊！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1049",
+    "name": "许褚",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1049",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "噢噢！超级舒服~"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1049"
+    ],
+    "suyueTalk": [
+      "拳头就是最好的语言！"
+    ],
+    "suyueTouckTalk": [
+      "陪我练练？保证不打死你哦？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_50"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1050",
+    "body": "hero/doll_card_1050/doll_card_1050",
+    "bust": "card/card_1050/card_1050",
+    "contacBubble": "宁我负天下人，不愿天下人负我！",
+    "contactSound": "Sound/Hero_sound/sound_get_1050",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "切，怎么又是你。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1050",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_50",
+    "failBubble": "不许再靠近了。",
+    "failSound": "Sound/Hero_sound/sound_win_1050",
+    "favorIcon": "favor_avatar/haogan_pixel_head_50",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1050",
+    "id": 1001050,
+    "image_card_bg": "bg_card_1050",
+    "ImageDeviation": [
+      0.0,
+      -200.0
+    ],
+    "ImageScale": 1.149999976158142,
+    "lineupBubble": [
+      "吾好梦中杀人！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1050"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_50",
+    "MvpBubble": "不许再靠近了。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1050",
+    "name": "曹操",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1050",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.149999976158142,
+    "scale": 0.30000001192092896,
+    "spBust": "card/card_1050_effect/card_1050_effect",
+    "strenthBubble": [
+      "事到如今，唯有如此了！"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1050"
+    ],
+    "suyueTalk": [
+      "吾梦中好执剑起舞，小心了。"
+    ],
+    "suyueTouckTalk": [
+      "宁教我负天下人……休教天下人负我。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_55"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1051",
+    "body": "hero/doll_card_1051/doll_card_1051",
+    "bust": "card/card_1051/card_1051",
+    "contacBubble": "那片海的彼方，究竟隐藏着什么呢……",
+    "contactSound": "Sound/Hero_sound/sound_get_1051",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "有什么想要知悉的事情吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1051",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_51",
+    "failBubble": "那片海的彼方，究竟隐藏着什么呢……",
+    "failSound": "Sound/Hero_sound/sound_get_1051",
+    "favorIcon": "favor_avatar/haogan_pixel_head_51",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1051",
+    "id": 1001051,
+    "image_card_bg": "bg_card_1050",
+    "ImageDeviation": [
+      75.0,
+      -425.0
+    ],
+    "ImageScale": 1.5499999523162842,
+    "lineupBubble": [
+      "对……对不起，接下来也许会受伤！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1051"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_51",
+    "MvpBubble": "那片海的彼方，究竟隐藏着什么呢……",
+    "MvpSound": "Sound/Hero_sound/sound_get_1051",
+    "name": "司马懿",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1051",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.5499999523162842,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "最多、最多只能到这里了哦……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1051"
+    ],
+    "suyueTalk": [
+      "那片海的彼方，究竟有什么呢……"
+    ],
+    "suyueTouckTalk": [
+      "对、对不起！我不是故意挡路的！"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_52"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1052",
+    "body": "hero/doll_card_1052/doll_card_1052",
+    "bust": "card/card_1052/card_1052",
+    "contacBubble": "断我粮道者，杀无赦！",
+    "contactSound": "Sound/Hero_sound/sound_get_1052",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "欲求不满了吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1052",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_52",
+    "failBubble": "粮道已断，还不肯承认败北吗？",
+    "failSound": "Sound/Hero_sound/sound_win_1052",
+    "favorIcon": "favor_avatar/haogan_pixel_head_52",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1052",
+    "id": 1001052,
+    "image_card_bg": "bg_card_1002",
+    "ImageDeviation": [
+      0.0,
+      -975.0
+    ],
+    "ImageScale": 0.7200000286102295,
+    "lineupBubble": [
+      "幸会。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1052"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_52",
+    "MvpBubble": "粮道已断，还不肯承认败北吗？",
+    "MvpSound": "Sound/Hero_sound/sound_win_1052",
+    "name": "徐晃",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1052",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 0.7200000286102295,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "幸会。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_fight_1052"
+    ],
+    "suyueTalk": [
+      "军纪如山，不可动摇。"
+    ],
+    "suyueTouckTalk": [
+      "幸会。希望我们合作愉快。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_53"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1053",
+    "body": "hero/doll_card_1053/doll_card_1053",
+    "bust": "card/card_1053/card_1053",
+    "contacBubble": "天下大势，尽在我的手中。",
+    "contactSound": "Sound/Hero_sound/sound_get_1053",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "你…",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1053",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_53",
+    "failBubble": "所有的历史都是由胜利者书写的。",
+    "failSound": "Sound/Hero_sound/sound_win_1053",
+    "favorIcon": "favor_avatar/haogan_pixel_head_53",
+    "favorPortrait": "favor_avatar2/haogan_banshenxiang_15",
+    "icon": "hero_avatar/tx_hero_1053",
+    "id": 1001053,
+    "image_card_bg": "bg_card_1053",
+    "ImageDeviation": [
+      -40.0,
+      -350.0
+    ],
+    "ImageScale": 1.2999999523162842,
+    "lineupBubble": [
+      "天下大势，尽在我的手中。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_get_1053"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_53",
+    "MvpBubble": "所有的历史都是由胜利者书写的。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1053",
+    "name": "曹丕",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1053",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2999999523162842,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "我就允许你侍奉在我的身侧吧。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1053"
+    ],
+    "suyueTalk": [
+      "这江山，终将落入我的掌中。"
+    ],
+    "suyueTouckTalk": [
+      "我的棋局，你……能看懂几分？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_54"
+  },
+  {
+    "body": "hero/doll_card_1024_sv/doll_card_1024_sv",
+    "bust": "card/card_1003/card_1003",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "detailHeadPic": "instance_avatar_big/instance_avatar_03",
+    "icon": "hero_avatar/tx_hero_1003",
+    "id": 100102499,
+    "image_card_bg": "bg_card_1003",
+    "ImageDeviation": [
+      50.0,
+      -50.0
+    ],
+    "ImageScale": 1.0,
+    "listIcon": "hero_list_avatar/common_js_kapai_03",
+    "name": "白素贞召唤物",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1003",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.3300000429153442,
+    "scale": 0.30000001192092896,
+    "zonePic": "instance_avatar/instance_avatar_03"
+  },
+  {
+    "body": "hero/doll_card_1031_sv/doll_card_1031_sv",
+    "bust": "card/card_1003/card_1003",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "detailHeadPic": "instance_avatar_big/instance_avatar_03",
+    "icon": "hero_avatar/tx_hero_1003",
+    "id": 100103199,
+    "image_card_bg": "bg_card_1003",
+    "ImageDeviation": [
+      50.0,
+      -50.0
+    ],
+    "ImageScale": 1.0,
+    "listIcon": "hero_list_avatar/common_js_kapai_03",
+    "name": "伊达政宗召唤物",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1003",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.3300000429153442,
+    "scale": 0.30000001192092896,
+    "zonePic": "instance_avatar/instance_avatar_03"
+  },
+  {
+    "body": "hero/doll_card_1045_sv/doll_card_1045_sv",
+    "bust": "card/card_1003/card_1003",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "detailHeadPic": "instance_avatar_big/instance_avatar_03",
+    "icon": "hero_avatar/tx_hero_1003",
+    "id": 100104599,
+    "image_card_bg": "bg_card_1003",
+    "ImageDeviation": [
+      50.0,
+      -50.0
+    ],
+    "ImageScale": 1.0,
+    "listIcon": "hero_list_avatar/common_js_kapai_03",
+    "name": "瑶姬召唤物",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1003",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.3300000429153442,
+    "scale": 0.30000001192092896,
+    "zonePic": "instance_avatar/instance_avatar_03"
+  },
+  {
+    "body": "other/JB_CAMP_SQ_SV/JB_CAMP_SQ_SV",
+    "bust": "card/card_1003/card_1003",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "detailHeadPic": "instance_avatar_big/instance_avatar_03",
+    "icon": "hero_avatar/tx_hero_1003",
+    "id": 100109999,
+    "image_card_bg": "bg_card_1003",
+    "ImageDeviation": [
+      50.0,
+      -50.0
+    ],
+    "ImageScale": 1.0,
+    "listIcon": "hero_list_avatar/common_js_kapai_03",
+    "name": "神祇羁绊召唤物",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1003",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.3300000429153442,
+    "scale": 0.30000001192092896,
+    "zonePic": "instance_avatar/instance_avatar_03"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1002",
+    "body": "hero/doll_card_1002_skin_1/doll_card_1002_skin_1",
+    "bust": "card/card_1002_skin_1/card_1002_skin_1",
+    "contacBubble": "你……该不会想要骑我吧？",
+    "contactSound": "Sound/Hero_sound/sound_get_1002",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "你好。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1002",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_02",
+    "failBubble": "你……该不会想要骑我吧？",
+    "failSound": "Sound/Hero_sound/sound_get_1002",
+    "icon": "hero_avatar/tx_hero_1002",
+    "id": 10010021,
+    "image_card_bg": "bg_card_1002_skin_1",
+    "ImageDeviation": [
+      27.0,
+      -568.0
+    ],
+    "ImageScale": 1.100000023841858,
+    "lineupBubble": [
+      "我会打倒他们的！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1002"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_02",
+    "MvpBubble": "你……该不会想要骑我吧？",
+    "MvpSound": "Sound/Hero_sound/sound_get_1002",
+    "name": "马超-风纪委员",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1002",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.100000023841858,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "你还真是个怪人呢！"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1002"
+    ],
+    "suyueTalk": [
+      "我的速度，可是无人能及哦！"
+    ],
+    "suyueTouckTalk": [
+      "喂，靠太近啦！想、想比试一场吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_02"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1003",
+    "body": "hero/doll_card_1003_skin_1/doll_card_1003_skin_1",
+    "bust": "card/card_1003_skin_1/card_1003_skin_1",
+    "contacBubble": "哪怕前方敌寇如海，我的步伐也绝不会停下！",
+    "contactSound": "Sound/Hero_sound/sound_get_1004",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "殿下，今天心情如何？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1003",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_03",
+    "failBubble": "感觉不坏。",
+    "failSound": "Sound/Hero_sound/sound_up_1003",
+    "icon": "hero_avatar/tx_hero_1003",
+    "id": 10010031,
+    "image_card_bg": "bg_card_1003_skin_1",
+    "ImageDeviation": [
+      -22.0,
+      -391.0
+    ],
+    "ImageScale": 1.0499999523162842,
+    "lineupBubble": [
+      "在下……必将守护殿下的安危。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1003"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_03",
+    "MvpBubble": "感觉不坏。",
+    "MvpSound": "Sound/Hero_sound/sound_up_1003",
+    "name": "赵云-新春祭典",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1003",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.3300000429153442,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "感觉不坏。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1003"
+    ],
+    "suyueTalk": [
+      "殿下所在之处，便是我长枪所指之地。"
+    ],
+    "suyueTouckTalk": [
+      "请放心，我的枪锋会为您扫清一切障碍。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_03"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1003",
+    "body": "hero/doll_card_1003_skin_2/doll_card_1003_skin_2",
+    "bust": "card/card_1003_skin_2/card_1003_skin_2",
+    "contacBubble": "哪怕前方敌寇如海，我的步伐也绝不会停下！",
+    "contactSound": "Sound/Hero_sound/sound_get_1004",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "殿下，今天心情如何？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1003",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_03",
+    "failBubble": "感觉不坏。",
+    "failSound": "Sound/Hero_sound/sound_up_1003",
+    "icon": "hero_avatar/tx_hero_1003",
+    "id": 10010032,
+    "image_card_bg": "bg_card_1003_skin_2",
+    "ImageDeviation": [
+      -4.0,
+      -285.0
+    ],
+    "ImageScale": 1.3300000429153442,
+    "lineupBubble": [
+      "在下……必将守护殿下的安危。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1003"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_03",
+    "MvpBubble": "感觉不坏。",
+    "MvpSound": "Sound/Hero_sound/sound_up_1003",
+    "name": "赵云-银白之誓",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1003",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.3300000429153442,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "感觉不坏。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1003"
+    ],
+    "suyueTalk": [
+      "殿下所在之处，便是我长枪所指之地。"
+    ],
+    "suyueTouckTalk": [
+      "请放心，我的枪锋会为您扫清一切障碍。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_03"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1003_fa_01",
+    "body": "hero/doll_card_1003_skin_3/doll_card_1003_skin_3",
+    "bust": "card/card_1003_skin_3/card_1003_skin_3",
+    "contacBubble": "哪怕前方敌寇如海，我的步伐也绝不会停下！",
+    "contactSound": "Sound/Hero_sound/sound_get_1004",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "殿下，今天心情如何？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1003",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_03",
+    "failBubble": "感觉不坏。",
+    "failSound": "Sound/Hero_sound/sound_up_1003",
+    "icon": "hero_avatar/tx_hero_1003_fa_01",
+    "id": 11010033,
+    "image_card_bg": "bg_card_1003_skin_3",
+    "ImageDeviation": [
+      55.0,
+      -500.0
+    ],
+    "ImageScale": 1.4500000476837158,
+    "lineupBubble": [
+      "一点寒芒先到，随后枪出如龙。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1003"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_03",
+    "MvpBubble": "感觉不坏。",
+    "MvpSound": "Sound/Hero_sound/sound_up_1003",
+    "name": "赵云-惊澜绮龙",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1003_fa_01",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.3300000429153442,
+    "scale": 0.30000001192092896,
+    "spBust": "card/card_1003_skin_3_effect/card_1003_skin_3_effect",
+    "strenthBubble": [
+      "感觉不坏。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1003"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_03"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1003_fa_01",
+    "body": "hero/doll_card_1008_skin_1/doll_card_1008_skin_1",
+    "bust": "card/card_1003_skin_3/card_1003_skin_3",
+    "contacBubble": "哪怕前方敌寇如海，我的步伐也绝不会停下！",
+    "contactSound": "Sound/Hero_sound/sound_get_1004",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "殿下，今天心情如何？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1003",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_03",
+    "failBubble": "感觉不坏。",
+    "failSound": "Sound/Hero_sound/sound_up_1003",
+    "icon": "hero_avatar/tx_hero_1003_fa_01",
+    "id": 11010081,
+    "image_card_bg": "bg_card_1003_skin_3",
+    "ImageDeviation": [
+      55.0,
+      -500.0
+    ],
+    "ImageScale": 1.4500000476837158,
+    "lineupBubble": [
+      "一点寒芒先到，随后枪出如龙。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1003"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_08",
+    "MvpBubble": "感觉不坏。",
+    "MvpSound": "Sound/Hero_sound/sound_up_1003",
+    "name": "武神-惊澜绮龙",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1003_fa_01",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.3300000429153442,
+    "scale": 0.30000001192092896,
+    "spBust": "card/card_1003_skin_3_effect/card_1003_skin_3_effect",
+    "strenthBubble": [
+      "感觉不坏。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1003"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_03"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1010",
+    "body": "hero/doll_card_1010_skin_1/doll_card_1010_skin_1",
+    "bust": "card/card_1010_skin_1/card_1010_skin_1",
+    "contacBubble": "嗯～？空气里好像有血的味道~",
+    "contactSound": "Sound/Hero_sound/sound_get_1010",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "你好。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1010",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_10",
+    "failBubble": "嗯～？空气里好像有血的味道~",
+    "failSound": "Sound/Hero_sound/sound_get_1010",
+    "icon": "hero_avatar/tx_hero_1010",
+    "id": 10010101,
+    "image_card_bg": "bg_card_1010_skin_1",
+    "ImageDeviation": [
+      31.0,
+      -347.0
+    ],
+    "ImageScale": 1.149999976158142,
+    "lineupBubble": [
+      "啊哈哈……血，我想要很多很多血~"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1010"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_10",
+    "MvpBubble": "嗯～？空气里好像有血的味道~",
+    "MvpSound": "Sound/Hero_sound/sound_get_1010",
+    "name": "夜叉-月下微醺",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1010",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2000000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "嗯～如果再继续的话，会发生什么可就说不准了哦？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1010"
+    ],
+    "suyueTalk": [
+      "嗯~好想闻到大餐的味道呀~"
+    ],
+    "suyueTouckTalk": [
+      "你身上……有股很香的味道呢~"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_10"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1011",
+    "body": "hero/doll_card_1011_skin_1/doll_card_1011_skin_1",
+    "bust": "card/card_1011_skin_1/card_1011_skin_1",
+    "contacBubble": "要不要一起…书写美妙的故事呢？♡",
+    "contactSound": "Sound/Hero_sound/sound_get_1011",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "难道…主人刚刚是在想我吗？♡",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1011",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_11",
+    "failBubble": "主人的心意…我感受到了。",
+    "failSound": "Sound/Hero_sound/sound_up_1011",
+    "icon": "hero_avatar/tx_hero_1011",
+    "id": 10010111,
+    "image_card_bg": "bg_card_1011_skin_1",
+    "ImageDeviation": [
+      0.0,
+      -780.0
+    ],
+    "ImageScale": 1.350000023841858,
+    "lineupBubble": [
+      "主人有什么吩咐，请尽管交给我吧~"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1011"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_11",
+    "MvpBubble": "主人的心意…我感受到了。",
+    "MvpSound": "Sound/Hero_sound/sound_up_1011",
+    "name": "貂蝉-花样爱恋",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1011",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "主人的心意…我感受到了。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1011"
+    ],
+    "suyueTalk": [
+      "主人的心愿，就是我的使命哦。"
+    ],
+    "suyueTouckTalk": [
+      "想和我共舞一曲吗，主人？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_11"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1011",
+    "body": "hero/doll_card_1011_skin_2/doll_card_1011_skin_2",
+    "bust": "card/card_1011_skin_2/card_1011_skin_2",
+    "contacBubble": "要不要一起…书写美妙的故事呢？♡",
+    "contactSound": "Sound/Hero_sound/sound_get_1011",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "难道…主人刚刚是在想我吗？♡",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1011",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_11",
+    "failBubble": "主人的心意…我感受到了。",
+    "failSound": "Sound/Hero_sound/sound_up_1011",
+    "icon": "hero_avatar/tx_hero_1011",
+    "id": 10010112,
+    "image_card_bg": "bg_card_1011_skin_2",
+    "ImageDeviation": [
+      0.0,
+      -780.0
+    ],
+    "ImageScale": 1.350000023841858,
+    "lineupBubble": [
+      "主人有什么吩咐，请尽管交给我吧~"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1011"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_11",
+    "MvpBubble": "主人的心意…我感受到了。",
+    "MvpSound": "Sound/Hero_sound/sound_up_1011",
+    "name": "貂蝉-翩舞千回",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1011",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "主人的心意…我感受到了。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1011"
+    ],
+    "suyueTalk": [
+      "主人的心愿，就是我的使命哦。"
+    ],
+    "suyueTouckTalk": [
+      "想和我共舞一曲吗，主人？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_11"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1011",
+    "body": "hero/doll_card_1011_skin_3/doll_card_1011_skin_3",
+    "bust": "card/card_1011_skin_3/card_1011_skin_3",
+    "contacBubble": "要不要一起…书写美妙的故事呢？♡",
+    "contactSound": "Sound/Hero_sound/sound_get_1011",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "难道…主人刚刚是在想我吗？♡",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1011",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_11",
+    "failBubble": "主人的心意…我感受到了。",
+    "failSound": "Sound/Hero_sound/sound_up_1011",
+    "icon": "hero_avatar/tx_hero_1011",
+    "id": 10010113,
+    "image_card_bg": "bg_card_1011_skin_3",
+    "ImageDeviation": [
+      62.0,
+      -532.0
+    ],
+    "ImageScale": 1.149999976158142,
+    "lineupBubble": [
+      "主人有什么吩咐，请尽管交给我吧~"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1011"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_11",
+    "MvpBubble": "主人的心意…我感受到了。",
+    "MvpSound": "Sound/Hero_sound/sound_up_1011",
+    "name": "貂蝉-盘龙缚影",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1011",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "主人的心意…我感受到了。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1011"
+    ],
+    "suyueTalk": [
+      "主人的心愿，就是我的使命哦。"
+    ],
+    "suyueTouckTalk": [
+      "想和我共舞一曲吗，主人？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_11"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1016",
+    "body": "hero/doll_card_1016_skin_1/doll_card_1016_skin_1",
+    "bust": "card/card_1016_skin_1/card_1016_skin_1",
+    "contacBubble": "花瓣翩然飘落，仿佛映照着我的爱意。",
+    "contactSound": "Sound/Hero_sound/sound_get_1016",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "我一直期待着能与您相见。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1016",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_16",
+    "failBubble": "花瓣翩然飘落，仿佛映照着我的爱意。",
+    "failSound": "Sound/Hero_sound/sound_get_1016",
+    "icon": "hero_avatar/tx_hero_1016",
+    "id": 10010161,
+    "image_card_bg": "bg_card_1016_skin_1",
+    "ImageDeviation": [
+      45.0,
+      -673.0
+    ],
+    "ImageScale": 1.2999999523162842,
+    "lineupBubble": [
+      "准备好与我一起跳舞了吗？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1016"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_16",
+    "MvpBubble": "花瓣翩然飘落，仿佛映照着我的爱意。",
+    "MvpSound": "Sound/Hero_sound/sound_get_1016",
+    "name": "闭月-繁花之庭",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1016",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.399999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "哎呀，那么大胆呢。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1016"
+    ],
+    "suyueTalk": [
+      "我的爱，如同这飘落的花瓣一般~"
+    ],
+    "suyueTouckTalk": [
+      "准备好陷入这美丽的漩涡了吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_17"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1020",
+    "body": "hero/doll_card_1020_skin_1/doll_card_1020_skin_1",
+    "bust": "card/card_1020_skin_1/card_1020_skin_1",
+    "contacBubble": "苍天已死，新的黄天，由我等来立！",
+    "contactSound": "Sound/Hero_sound/sound_get_1020",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "安康。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1020",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_20",
+    "failBubble": "就算被烧成焦炭了，也别想着抱怨哦！",
+    "failSound": "Sound/Hero_sound/sound_win_1020",
+    "icon": "hero_avatar/tx_hero_1020",
+    "id": 10010201,
+    "image_card_bg": "bg_card_1020_skin_1",
+    "ImageDeviation": [
+      27.0,
+      -480.0
+    ],
+    "ImageScale": 1.0499999523162842,
+    "lineupBubble": [
+      "雷公，助我！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1020"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_20",
+    "MvpBubble": "就算被烧成焦炭了，也别想着抱怨哦！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1020",
+    "name": "张角-恶魔降临",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1020",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.75,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "仅这些，就是你对本天师的态度吗？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1020"
+    ],
+    "suyueTalk": [
+      "黄天在上，见证我等伟业！"
+    ],
+    "suyueTouckTalk": [
+      "雷公助我！……啊，是你在叫我。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_21"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1024",
+    "body": "hero/doll_card_1024_skin_1/doll_card_1024_skin_1",
+    "bust": "card/card_1024_skin_1/card_1024_skin_1",
+    "contacBubble": "呐，感觉身体热起来了呢。",
+    "contactSound": "Sound/Hero_sound/sound_get_1024",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "啊啦，是想要一起做有趣的事情吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1024",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_24",
+    "failBubble": "我可不会轻易屈服。",
+    "failSound": "Sound/Hero_sound/sound_win_1024",
+    "icon": "hero_avatar/tx_hero_1024",
+    "id": 10010241,
+    "image_card_bg": "bg_card_1024_skin_1",
+    "ImageDeviation": [
+      2.0,
+      -800.0
+    ],
+    "ImageScale": 1.399999976158142,
+    "lineupBubble": [
+      "我就在这里哦。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1024"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_24",
+    "MvpBubble": "我可不会轻易屈服。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1024",
+    "name": "白素贞-心跳病栋",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1024",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "嗯……还不错嘛。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1024"
+    ],
+    "suyueTalk": [
+      "这里很安全，请过来吧。"
+    ],
+    "suyueTouckTalk": [
+      "你的体温……很温暖呢。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_25"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1026",
+    "body": "hero/doll_card_1026_skin_1/doll_card_1026_skin_1",
+    "bust": "card/card_1026_skin_1/card_1026_skin_1",
+    "contacBubble": "你的心之所想，我都可以给你。",
+    "contactSound": "Sound/Hero_sound/sound_get_1026",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "您又在等我了吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1026",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_26",
+    "failBubble": "这样，您满意了吗？",
+    "failSound": "Sound/Hero_sound/sound_win_1026",
+    "icon": "hero_avatar/tx_hero_1026",
+    "id": 10010261,
+    "image_card_bg": "bg_card_1026_skin_1",
+    "ImageDeviation": [
+      8.0,
+      -815.0
+    ],
+    "ImageScale": 1.399999976158142,
+    "lineupBubble": [
+      "这就对了。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1026"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_26",
+    "MvpBubble": "这样，您满意了吗？",
+    "MvpSound": "Sound/Hero_sound/sound_win_1026",
+    "name": "洛神-秋风听弦",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1026",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2000000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "真棒呢，就这样继续下去吧。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1026"
+    ],
+    "suyueTalk": [
+      "你的心愿，我已听闻。"
+    ],
+    "suyueTouckTalk": [
+      "这就满足你的愿望。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_27"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1026",
+    "body": "hero/doll_card_1026_skin_2/doll_card_1026_skin_2",
+    "bust": "card/card_1026_skin_2/card_1026_skin_2",
+    "contacBubble": "你的心之所想，我都可以给你。",
+    "contactSound": "Sound/Hero_sound/sound_get_1026",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "您又在等我了吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1026",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_26",
+    "failBubble": "这样，您满意了吗？",
+    "failSound": "Sound/Hero_sound/sound_win_1026",
+    "icon": "hero_avatar/tx_hero_1026",
+    "id": 10010262,
+    "image_card_bg": "bg_card_1026_skin_2",
+    "ImageDeviation": [
+      39.0,
+      -483.0
+    ],
+    "ImageScale": 1.2000000476837158,
+    "lineupBubble": [
+      "这就对了。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1026"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_26",
+    "MvpBubble": "这样，您满意了吗？",
+    "MvpSound": "Sound/Hero_sound/sound_win_1026",
+    "name": "洛神-绮梦心事",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1026",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2000000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "真棒呢，就这样继续下去吧。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1026"
+    ],
+    "suyueTalk": [
+      "你的心愿，我已听闻。"
+    ],
+    "suyueTouckTalk": [
+      "这就满足你的愿望。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_27"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1030",
+    "body": "hero/doll_card_1030_skin_1/doll_card_1030_skin_1",
+    "bust": "card/card_1030_skin_1/card_1030_skin_1",
+    "contacBubble": "欢迎来到我的王国~",
+    "contactSound": "Sound/Hero_sound/sound_get_1030",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "欢迎来到我的王国~",
+    "defaultSound": "Sound/Hero_sound/sound_get_1030",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_30",
+    "failBubble": "这将被我视为对王权的挑战。",
+    "failSound": "Sound/Hero_sound/sound_win_1030",
+    "icon": "hero_avatar/tx_hero_1030",
+    "id": 10010301,
+    "image_card_bg": "bg_card_1030_skin_1",
+    "ImageDeviation": [
+      -31.0,
+      -716.0
+    ],
+    "ImageScale": 1.399999976158142,
+    "lineupBubble": [
+      "我会帮你一把的。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1030"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_30",
+    "MvpBubble": "这将被我视为对王权的挑战。",
+    "MvpSound": "Sound/Hero_sound/sound_win_1030",
+    "name": "狮心理查-纯白之约",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1030",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2200000286102295,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "哎呀……你是想和我在一起吗？"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1030"
+    ],
+    "suyueTalk": [
+      "欢迎来到我的领地。"
+    ],
+    "suyueTouckTalk": [
+      "需要我的帮助吗？尽管说吧。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_31"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1033",
+    "body": "hero/doll_card_1033_skin_1/doll_card_1033_skin_1",
+    "bust": "card/card_1033_skin_1/card_1033_skin_1",
+    "contacBubble": "剑士的觉悟，可不会轻易被打破。",
+    "contactSound": "Sound/Hero_sound/sound_get_1033",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "幸会！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1033",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_33",
+    "failBubble": "剑士的觉悟，可不会轻易被打破。",
+    "failSound": "Sound/Hero_sound/sound_get_1033",
+    "icon": "hero_avatar/tx_hero_1033",
+    "id": 10010331,
+    "image_card_bg": "bg_card_1033_skin_1",
+    "ImageDeviation": [
+      34.0,
+      -273.0
+    ],
+    "ImageScale": 1.2999999523162842,
+    "lineupBubble": [
+      "好，只有这样了。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1033"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_33",
+    "MvpBubble": "剑士的觉悟，可不会轻易被打破。",
+    "MvpSound": "Sound/Hero_sound/sound_get_1033",
+    "name": "德川家康-雨夜潜行",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1033",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.4500000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "我在此立誓，一定会守护你到底。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1033"
+    ],
+    "suyueTalk": [
+      "忍耐与等待，亦是武略。"
+    ],
+    "suyueTouckTalk": [
+      "我的觉悟，可不会轻易动摇。"
+    ],
+    "VictoryReverse": true,
+    "zonePic": "instance_avatar/instance_avatar_34"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1035",
+    "body": "hero/doll_card_1035_skin_1/doll_card_1035_skin_1",
+    "bust": "card/card_1035_skin_1/card_1035_skin_1",
+    "contacBubble": "纵然吟诗千首，这颗空虚的心，也唯有爱能将其填满。",
+    "contactSound": "Sound/Hero_sound/sound_get_1035",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "殿下，有想到什么好诗吗？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1035",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_35",
+    "failBubble": "纵然吟诗千首，这颗空虚的心，也唯有爱能将其填满。",
+    "failSound": "Sound/Hero_sound/sound_get_1035",
+    "icon": "hero_avatar/tx_hero_1035",
+    "id": 10010351,
+    "image_card_bg": "bg_card_1035_skin_1",
+    "ImageDeviation": [
+      -51.70000076293945,
+      -360.0
+    ],
+    "ImageScale": 1.0499999523162842,
+    "lineupBubble": [
+      "安好。"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1035"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_35",
+    "MvpBubble": "纵然吟诗千首，这颗空虚的心，也唯有爱能将其填满。",
+    "MvpSound": "Sound/Hero_sound/sound_get_1035",
+    "name": "和泉式部-海风夏日",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1035",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.2000000476837158,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "心里暖暖的……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1035"
+    ],
+    "suyueTalk": [
+      "百首和歌，也难诉衷肠。"
+    ],
+    "suyueTouckTalk": [
+      "你愿意……倾听我的心事吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_36"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1036",
+    "body": "hero/doll_card_1036_skin_1/doll_card_1036_skin_1",
+    "bust": "card/card_1036_skin_1/card_1036_skin_1",
+    "contacBubble": "别、别想违抗我！我会把你切碎的哦！",
+    "contactSound": "Sound/Hero_sound/sound_get_1036",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "我们已经是朋友了，对吧？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1036",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_36",
+    "failBubble": "下、下次会把你砍断的！",
+    "failSound": "Sound/Hero_sound/sound_win_1036",
+    "icon": "hero_avatar/tx_hero_1036",
+    "id": 10010361,
+    "image_card_bg": "bg_card_1036_skin_1",
+    "ImageDeviation": [
+      -11.0,
+      -691.2000122070312
+    ],
+    "ImageScale": 1.25,
+    "lineupBubble": [
+      "我，我要拔刀了哦！？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1036"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_36",
+    "MvpBubble": "下、下次会把你砍断的！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1036",
+    "name": "立花訚千代-苍龙之域",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1036",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.399999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "身体感觉怪怪的……真是的……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1036"
+    ],
+    "suyueTalk": [
+      "我、我才不会害怕呢！"
+    ],
+    "suyueTouckTalk": [
+      "别过来！不然我……我真的会砍你的哦！"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_37"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1039",
+    "body": "hero/doll_card_1039_skin_1/doll_card_1039_skin_1",
+    "bust": "card/card_1039_skin_1/card_1039_skin_1",
+    "contacBubble": "替我祈祷吧，让我能乘上风的怀抱～",
+    "contactSound": "Sound/Hero_sound/sound_get_1039",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "呼呼……你好呀！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1039",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_39",
+    "failBubble": "风啊，对我来说可是一直以来的好朋友呢！",
+    "failSound": "Sound/Hero_sound/sound_win_1039",
+    "icon": "hero_avatar/tx_hero_1039",
+    "id": 10010391,
+    "image_card_bg": "bg_card_1039_skin_1",
+    "ImageDeviation": [
+      -9.0,
+      -290.0
+    ],
+    "ImageScale": 1.5,
+    "lineupBubble": [
+      "风啊，把他们都吹飞吧！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1039"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_39",
+    "MvpBubble": "风啊，对我来说可是一直以来的好朋友呢！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1039",
+    "name": "小乔-宸龙之域",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1039",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.100000023841858,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "想被你温柔地抚摸呢……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1039"
+    ],
+    "suyueTalk": [
+      "风啊，请带我去远方看看吧~"
+    ],
+    "suyueTouckTalk": [
+      "要和我一起，乘着风飞翔吗？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_40"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1044",
+    "body": "hero/doll_card_1044_skin_1/doll_card_1044_skin_1",
+    "bust": "card/card_1044_skin_1/card_1044_skin_1",
+    "contacBubble": "哼，是谁说女子不如男的？",
+    "contactSound": "Sound/Hero_sound/sound_get_1044",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "你好啊，无礼的家伙。",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1044",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_44",
+    "failBubble": "哼，是谁说女子不如男的？",
+    "failSound": "Sound/Hero_sound/sound_get_1044",
+    "icon": "hero_avatar/tx_hero_1044",
+    "id": 10010441,
+    "image_card_bg": "bg_card_1044_skin_1",
+    "ImageDeviation": [
+      12.0,
+      -760.0
+    ],
+    "ImageScale": 1.4500000476837158,
+    "lineupBubble": [
+      "来，是时候把酒满上了！"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1044"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_44",
+    "MvpBubble": "哼，是谁说女子不如男的？",
+    "MvpSound": "Sound/Hero_sound/sound_get_1044",
+    "name": "花木兰-炽龙之域",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1044",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.899999976158142,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "居然，是如此美妙的感觉……"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1044"
+    ],
+    "suyueTalk": [
+      "谁说女子就不能上阵杀敌了？"
+    ],
+    "suyueTouckTalk": [
+      "来，干了这碗酒，我们是战友了！"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_45"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1046",
+    "body": "hero/doll_card_1046_skin_1/doll_card_1046_skin_1",
+    "bust": "card/card_1046_skin_1/card_1046_skin_1",
+    "contacBubble": "吾即便是死，也仍然是西楚霸王！",
+    "contactSound": "Sound/Hero_sound/sound_get_1046",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "即便生于乱世，也要鼎立于天下！",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1046",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_46",
+    "failBubble": "哈哈哈哈，这是我的战场！",
+    "failSound": "Sound/Hero_sound/sound_win_1046",
+    "icon": "hero_avatar/tx_hero_1046",
+    "id": 10010461,
+    "image_card_bg": "bg_card_1046_skin_1",
+    "ImageDeviation": [
+      58.0,
+      -425.0
+    ],
+    "ImageScale": 1.399999976158142,
+    "lineupBubble": [
+      "这是挑衅吗？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1046"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_46",
+    "MvpBubble": "哈哈哈哈，这是我的战场！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1046",
+    "name": "项羽-加冕之时",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1046",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.600000023841858,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "好吧，感觉不坏。"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1046"
+    ],
+    "suyueTalk": [
+      "力拔山兮气盖世！"
+    ],
+    "suyueTouckTalk": [
+      "你在挑战我吗？有意思。"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_47"
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_1049",
+    "body": "hero/doll_card_1049_skin_1/doll_card_1049_skin_1",
+    "bust": "card/card_1049_skin_1/card_1049_skin_1",
+    "contacBubble": "你要是敢动一下，我就把你的头打碎哦！",
+    "contactSound": "Sound/Hero_sound/sound_get_1049",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "defaultBubble": "是不是想见我了呀？",
+    "defaultSound": "Sound/Hero_sound/sound_hi_1049",
+    "detailHeadPic": "instance_avatar_big/instance_avatar_49",
+    "failBubble": "噢噢噢！被我打飞得真远啊！",
+    "failSound": "Sound/Hero_sound/sound_win_1049",
+    "icon": "hero_avatar/tx_hero_1049",
+    "id": 10010491,
+    "image_card_bg": "bg_card_1049_skin_1",
+    "ImageDeviation": [
+      25.0,
+      -240.0
+    ],
+    "ImageScale": 1.0,
+    "lineupBubble": [
+      "就算挨揍了，也不许抱怨哦？"
+    ],
+    "lineupSound": [
+      "Sound/Hero_sound/sound_fight_1049"
+    ],
+    "listIcon": "hero_list_avatar/common_js_kapai_49",
+    "MvpBubble": "噢噢噢！被我打飞得真远啊！",
+    "MvpSound": "Sound/Hero_sound/sound_win_1049",
+    "name": "许褚-霓虹律动",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1049",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0,
+    "scale": 0.30000001192092896,
+    "strenthBubble": [
+      "噢噢！超级舒服~"
+    ],
+    "strenthSound": [
+      "Sound/Hero_sound/sound_up_1049"
+    ],
+    "suyueTalk": [
+      "拳头就是最好的语言！"
+    ],
+    "suyueTouckTalk": [
+      "陪我练练？保证不打死你哦？"
+    ],
+    "zonePic": "instance_avatar/instance_avatar_50"
+  },
+  {
+    "body": "hero/doll_card_1024_sv_skin_1/doll_card_1024_sv_skin_1",
+    "bust": "card/card_1003/card_1003",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "detailHeadPic": "instance_avatar_big/instance_avatar_03",
+    "icon": "hero_avatar/tx_hero_1003",
+    "id": 1001024991,
+    "image_card_bg": "bg_card_1003",
+    "ImageDeviation": [
+      50.0,
+      -50.0
+    ],
+    "ImageScale": 1.0,
+    "listIcon": "hero_list_avatar/common_js_kapai_03",
+    "name": "白素贞召唤物",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1003",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.3300000429153442,
+    "scale": 0.30000001192092896,
+    "zonePic": "instance_avatar/instance_avatar_03"
+  },
+  {
+    "body": "lover/doll_card_5001/doll_card_5001",
+    "bust": "lover_card/card_5001/card_5001",
+    "icon": "herolove_avatar/tx_lianji_5001",
+    "id": 1005001,
+    "image_card_bg": "lianji_bg_hudong_anna",
+    "ImageDeviation": [
+      0.0,
+      -400.0
+    ],
+    "ImageScale": 1.25,
+    "name": "安娜",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "body": "lover/doll_card_5002/doll_card_5002",
+    "bust": "lover_card/card_5002/card_5002",
+    "icon": "herolove_avatar/tx_lianji_5002",
+    "id": 1005002,
+    "image_card_bg": "lianji_bg_hudong_caiwenji",
+    "ImageDeviation": [
+      97.5999984741211,
+      -680.0
+    ],
+    "ImageScale": 1.600000023841858,
+    "name": "蔡文姬",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "body": "lover/doll_card_5003/doll_card_5003",
+    "bust": "lover_card/card_5003/card_5003",
+    "icon": "herolove_avatar/tx_lianji_5003",
+    "id": 1005003,
+    "image_card_bg": "lianji_bg_hudong_chacha",
+    "ImageDeviation": [
+      55.0,
+      -320.0
+    ],
+    "ImageScale": 1.2000000476837158,
+    "name": "茶茶",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "body": "lover/doll_card_5004/doll_card_5004",
+    "bust": "lover_card/card_5004/card_5004",
+    "icon": "herolove_avatar/tx_lianji_5004",
+    "id": 1005004,
+    "image_card_bg": "lianji_bg_hudong_jingyuqian",
+    "ImageDeviation": [
+      25.0,
+      -340.0
+    ],
+    "ImageScale": 1.100000023841858,
+    "name": "静御前",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "body": "lover/doll_card_5005/doll_card_5005",
+    "bust": "lover_card/card_5005/card_5005",
+    "icon": "herolove_avatar/tx_lianji_5005",
+    "id": 1005005,
+    "image_card_bg": "lianji_bg_hudong_mifuren",
+    "ImageDeviation": [
+      115.0,
+      -555.0
+    ],
+    "ImageScale": 1.350000023841858,
+    "name": "糜夫人",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "body": "lover/doll_card_5006/doll_card_5006",
+    "bust": "lover_card/card_5006/card_5006",
+    "icon": "herolove_avatar/tx_lianji_5006",
+    "id": 1005006,
+    "image_card_bg": "lianji_bg_hudong_mingzhiyuzi",
+    "ImageDeviation": [
+      -90.0,
+      -125.0
+    ],
+    "ImageScale": 1.0,
+    "name": "明智玉子",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "body": "lover/doll_card_5007/doll_card_5007",
+    "bust": "lover_card/card_5007/card_5007",
+    "icon": "herolove_avatar/tx_lianji_5007",
+    "id": 1005007,
+    "image_card_bg": "lianji_bg_hudong_daji",
+    "ImageDeviation": [
+      21.3799991607666,
+      -472.5
+    ],
+    "ImageScale": 1.350000023841858,
+    "name": "妲己",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "body": "lover/doll_card_5008/doll_card_5008",
+    "bust": "lover_card/card_5008/card_5008",
+    "icon": "herolove_avatar/tx_lianji_5008",
+    "id": 1005008,
+    "image_card_bg": "lianji_bg_hudong_wangzhaojun",
+    "ImageDeviation": [
+      60.0,
+      -220.0
+    ],
+    "ImageScale": 1.100000023841858,
+    "name": "王昭君",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "body": "lover/doll_card_5009/doll_card_5009",
+    "bust": "lover_card/card_5009/card_5009",
+    "icon": "herolove_avatar/tx_lianji_5009",
+    "id": 1005009,
+    "image_card_bg": "lianji_bg_hudong_chuyunaguo",
+    "ImageDeviation": [
+      -15.0,
+      -600.0
+    ],
+    "ImageScale": 1.2999999523162842,
+    "name": "出云阿国",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "body": "lover/doll_card_5010/doll_card_5010",
+    "bust": "lover_card/card_5010/card_5010",
+    "icon": "herolove_avatar/tx_lianji_5010",
+    "id": 1005010,
+    "image_card_bg": "lianji_bg_hudong_yitongji",
+    "ImageDeviation": [
+      60.0,
+      15.0
+    ],
+    "ImageScale": 0.800000011920929,
+    "name": "衣通姬",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "body": "lover/doll_card_5011/doll_card_5011",
+    "bust": "lover_card/card_5011/card_5011",
+    "icon": "herolove_avatar/tx_lianji_5011",
+    "id": 1005011,
+    "image_card_bg": "lianji_bg_hudong_xichuanyuzi",
+    "ImageDeviation": [
+      10.0,
+      -100.0
+    ],
+    "ImageScale": 0.949999988079071,
+    "name": "宁宁",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_2001",
+    "body": "monster/minion/doll_card_2001/doll_card_2001",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "icon": "hero_avatar/tx_hero_2001",
+    "id": 1002001,
+    "name": "弓箭小兵",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1047",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_2002",
+    "body": "monster/minion/doll_card_2002/doll_card_2002",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "icon": "hero_avatar/tx_hero_2002",
+    "id": 1002002,
+    "name": "长枪小兵",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1047",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_2003",
+    "body": "monster/minion/doll_card_2003/doll_card_2003",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "icon": "hero_avatar/tx_hero_2003",
+    "id": 1002003,
+    "name": "斧头小兵",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1047",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_2004",
+    "body": "monster/minion/doll_card_2004/doll_card_2004",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "icon": "hero_avatar/tx_hero_2004",
+    "id": 1002004,
+    "name": "剑盾小兵",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1047",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_2005",
+    "body": "monster/minion/doll_card_2005/doll_card_2005",
+    "deadSound": [
+      "Battle/DeadSound/battle_dead_fly"
+    ],
+    "icon": "hero_avatar/tx_hero_2005",
+    "id": 1002005,
+    "name": "枪盾小兵",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1047",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3001",
+    "body": "monster/boss/doll_card_3001/doll_card_3001",
+    "bust": "card/card_3001/card_3001",
+    "icon": "hero_avatar/tx_hero_3001",
+    "id": 1003001,
+    "ImageDeviation": [
+      72.0,
+      -720.0
+    ],
+    "ImageScale": 0.3499999940395355,
+    "lineUpMove": "chuchang",
+    "name": "荒蹄圣女",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_3001",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3001",
+    "body": "monster/boss/doll_card_3001_bs/doll_card_3001_bs",
+    "icon": "hero_avatar/tx_hero_3001",
+    "id": 100300199,
+    "ImageScale": 1.0,
+    "name": "荒蹄圣女",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_3001",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3002",
+    "body": "monster/boss/doll_card_3002/doll_card_3002",
+    "bust": "card/card_3002/card_3002",
+    "icon": "hero_avatar/tx_hero_3002",
+    "id": 1003002,
+    "ImageDeviation": [
+      94.0,
+      -748.0
+    ],
+    "ImageScale": 0.5,
+    "lineUpMove": "chuchang",
+    "name": "翠幕意志",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_3002",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3003",
+    "body": "monster/boss/doll_card_3003/doll_card_3003",
+    "bust": "card/card_3003/card_3003",
+    "icon": "hero_avatar/tx_hero_3003",
+    "id": 1003003,
+    "ImageDeviation": [
+      65.0,
+      -942.0
+    ],
+    "ImageScale": 0.5199999809265137,
+    "lineUpMove": "chuchang",
+    "name": "陵中蜃影",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_3003",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3004",
+    "body": "monster/boss/doll_card_3004/doll_card_3004",
+    "bust": "card/card_3004/card_3004",
+    "icon": "hero_avatar/tx_hero_3004",
+    "id": 1003004,
+    "ImageDeviation": [
+      89.0,
+      -534.0
+    ],
+    "ImageScale": 0.5,
+    "lineUpMove": "chuchang",
+    "name": "旧日支配者",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_3004",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3004",
+    "body": "monster/boss/doll_card_3004_sv/doll_card_3004_sv",
+    "icon": "hero_avatar/tx_hero_3004",
+    "id": 100300499,
+    "ImageScale": 1.0,
+    "name": "旧日支配者-召唤物",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_3004",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3006",
+    "body": "monster/boss/doll_card_3006/doll_card_3006",
+    "bust": "card/card_3006/card_3006",
+    "icon": "hero_avatar/tx_hero_3006",
+    "id": 1003006,
+    "ImageDeviation": [
+      60.0,
+      -840.0
+    ],
+    "ImageScale": 0.800000011920929,
+    "lineUpMove": "chuchang",
+    "name": "枯沙冥犬",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_3006",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3007",
+    "body": "monster/boss/doll_card_3007/doll_card_3007",
+    "bust": "card/card_3007/card_3007",
+    "icon": "hero_avatar/tx_hero_3007",
+    "id": 1003007,
+    "ImageDeviation": [
+      0.0,
+      -500.0
+    ],
+    "ImageScale": 0.4000000059604645,
+    "lineUpMove": "chuchang",
+    "name": "断空之翼",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_3007",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3008",
+    "body": "monster/boss/doll_card_3008/doll_card_3008",
+    "bust": "card/card_3008/card_3008",
+    "icon": "hero_avatar/tx_hero_3008",
+    "id": 1003008,
+    "ImageDeviation": [
+      65.0,
+      -840.0
+    ],
+    "ImageScale": 1.100000023841858,
+    "lineUpMove": "chuchang",
+    "name": "窃火祸神",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_3008",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3009",
+    "body": "monster/boss/doll_card_3009/doll_card_3009",
+    "icon": "hero_avatar/tx_hero_3009",
+    "id": 1003009,
+    "ImageScale": 1.0,
+    "lineUpMove": "skill1",
+    "name": "青丘惑影",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1047",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3001",
+    "body": "monster/boss/doll_card_3009_sv/doll_card_3009_sv",
+    "icon": "hero_avatar/tx_hero_2001",
+    "id": 100300999,
+    "ImageScale": 1.0,
+    "name": "青丘惑影-召唤物",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_1047",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3201",
+    "body": "monster/boss/doll_card_3201/doll_card_3201",
+    "icon": "hero_avatar/tx_hero_2003",
+    "id": 1003201,
+    "ImageScale": 1.0,
+    "lineUpMove": "chuchang",
+    "name": "格蕾喵",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_3201",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "battleMiniIcon": "Battle/head/battle_head_3301",
+    "body": "monster/boss/doll_card_3301/doll_card_3301",
+    "icon": "hero_avatar/tx_hero_2003",
+    "id": 1003301,
+    "ImageScale": 1.0,
+    "lineUpEffect": [
+      {
+        "path": "card_skill_3202/card_skill_3202_skill_1"
+      }
+    ],
+    "lineUpMove": "skill2",
+    "name": "湮灭之女",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_3301",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.30000001192092896
+  },
+  {
+    "id": 1011001,
+    "name": "水晶守卫者",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_11001",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "id": 1011002,
+    "name": "水晶领主",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_11002",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "id": 1099001,
+    "name": "空岛见习卫兵",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_4",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "id": 1099002,
+    "name": "空岛守备卫士",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_5",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "id": 1099003,
+    "name": "空岛守备队长",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_8",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "id": 1099004,
+    "name": "空岛见习卫兵",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_11",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "id": 1099005,
+    "name": "空岛守备卫士",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_12",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "id": 1099006,
+    "name": "空岛守备队长",
+    "OctagonIcon": "octagon_Avatar/Octagon_Avatar_16",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "body": "pet/doll_pet_4001/doll_pet_4001",
+    "bust": "pet_card/pet_card_4001/pet_card_4001",
+    "id": 2003001,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "猫又",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4002/doll_pet_4002",
+    "bust": "pet_card/pet_card_4002/pet_card_4002",
+    "id": 2003002,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "迦楼罗",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4003/doll_pet_4003",
+    "bust": "pet_card/pet_card_4003/pet_card_4003",
+    "id": 2003003,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "巴斯特",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4004/doll_pet_4004",
+    "bust": "pet_card/pet_card_4004/pet_card_4004",
+    "id": 2003004,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "毕方",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4005/doll_pet_4005",
+    "bust": "pet_card/pet_card_4005/pet_card_4005",
+    "id": 2003005,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "蛤蟆丸",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4006/doll_pet_4006",
+    "bust": "pet_card/pet_card_4006/pet_card_4006",
+    "id": 2003006,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "九色鹿",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4007/doll_pet_4007",
+    "bust": "pet_card/pet_card_4007/pet_card_4007",
+    "id": 2003007,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "青鸟",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4008/doll_pet_4008",
+    "bust": "pet_card/pet_card_4008/pet_card_4008",
+    "id": 2003008,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "稻荷神狐",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4009/doll_pet_4009",
+    "bust": "pet_card/pet_card_4009/pet_card_4009",
+    "id": 2003009,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "食铁兽",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4010/doll_pet_4010",
+    "bust": "pet_card/pet_card_4010/pet_card_4010",
+    "id": 2003010,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "当康",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4011/doll_pet_4011",
+    "bust": "pet_card/pet_card_4011/pet_card_4011",
+    "id": 2003011,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "黑熊精",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4012/doll_pet_4012",
+    "bust": "pet_card/pet_card_4012/pet_card_4012",
+    "id": 2003012,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "牛金牛",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4013/doll_pet_4013",
+    "bust": "pet_card/pet_card_4013/pet_card_4013",
+    "id": 2003013,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "鲲",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4014/doll_pet_4014",
+    "bust": "pet_card/pet_card_4014/pet_card_4014",
+    "id": 2003014,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "哈奴曼",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4015/doll_pet_4015",
+    "bust": "pet_card/pet_card_4015/pet_card_4015",
+    "id": 2003015,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "刻耳柏洛斯",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "pet/doll_pet_4016/doll_pet_4016",
+    "bust": "pet_card/pet_card_4016/pet_card_4016",
+    "id": 2003016,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "应龙",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.600000023841858
+  },
+  {
+    "body": "npc/npc_kuaidi_bai/npc_kuaidi_bai",
+    "id": 1009001,
+    "name": "快递小人白",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.6000000238418579
+  },
+  {
+    "body": "npc/npc_kuaidi_cheng/npc_kuaidi_cheng",
+    "id": 1009002,
+    "name": "快递小人橙",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.6000000238418579
+  },
+  {
+    "body": "npc/npc_kuaidi_hong/npc_kuaidi_hong",
+    "id": 1009003,
+    "name": "快递小人红",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.6000000238418579
+  },
+  {
+    "body": "npc/npc_kuaidi_lan/npc_kuaidi_lan",
+    "id": 1009004,
+    "name": "快递小人蓝",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.6000000238418579
+  },
+  {
+    "body": "npc/npc_kuaidi_lv/npc_kuaidi_lv",
+    "id": 1009005,
+    "name": "快递小人绿",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.6000000238418579
+  },
+  {
+    "body": "npc/npc_kuaidi_zi/npc_kuaidi_zi",
+    "id": 1009006,
+    "name": "快递小人紫",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 0.6000000238418579
+  },
+  {
+    "body": "npc/npc_cave_1/npc_cave_1",
+    "id": 1009007,
+    "name": "快递小人紫",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "body": "pet/doll_pet_4007/doll_pet_4007",
+    "id": 1009101,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "宿命回廊转盘",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 2.0
+  },
+  {
+    "body": "jiqiren/jiqiren",
+    "id": 1009201,
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "body": "npc/npc_shangren/npc_shangren",
+    "id": 1009301,
+    "name": "福利商人",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "npc/npc_carddrop_dog",
+    "bust": "user_card/image_man_child_01/image_man_child_01",
+    "id": 10,
+    "ImageScale": 1.0,
+    "name": "狗",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_man_child_01/doll_man_child_01",
+    "bust": "user_card/image_man_child_01/image_man_child_01",
+    "id": 4001,
+    "ImageDeviation": [
+      0.0,
+      -650.0
+    ],
+    "ImageRotation": [
+      0.0,
+      -180.0
+    ],
+    "ImageScale": 1.100000023841858,
+    "name": "懒语童裳",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_man_euro_01/doll_man_euro_01",
+    "bust": "user_card/image_man_euro_01/image_man_euro_01",
+    "id": 4002,
+    "ImageDeviation": [
+      0.0,
+      -500.0
+    ],
+    "ImageRotation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0499999523162842,
+    "name": "初誓新铠",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_man_euro_02/doll_man_euro_02",
+    "bust": "user_card/image_man_euro_02/image_man_euro_02",
+    "id": 4003,
+    "ImageDeviation": [
+      0.0,
+      -475.0
+    ],
+    "ImageRotation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0499999523162842,
+    "name": "烬启练衣",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_man_euro_03/doll_man_euro_03",
+    "bust": "user_card/image_man_euro_03/image_man_euro_03",
+    "id": 4004,
+    "ImageDeviation": [
+      0.0,
+      -475.0
+    ],
+    "ImageRotation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0499999523162842,
+    "name": "征命权裳",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_man_king_01/doll_man_king_01",
+    "bust": "user_card/image_man_king_01/image_man_king_01",
+    "id": 4005,
+    "ImageDeviation": [
+      0.0,
+      -500.0
+    ],
+    "ImageRotation": [
+      0.0,
+      -180.0
+    ],
+    "ImageScale": 1.3200000524520874,
+    "name": "时烬之王",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_man_king_02/doll_man_king_02",
+    "bust": "user_card/image_man_king_02/image_man_king_02",
+    "id": 4006,
+    "ImageDeviation": [
+      0.0,
+      -500.0
+    ],
+    "ImageRotation": [
+      0.0,
+      -180.0
+    ],
+    "ImageScale": 1.3650000095367432,
+    "name": "终宙礼赞",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_man_king_02/doll_man_king_02",
+    "bust": "user_card/image_man_king_02/image_man_king_02",
+    "id": 4007,
+    "ImageDeviation": [
+      0.0,
+      -550.0
+    ],
+    "ImageRotation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "溟澜·海神",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_man_grassland/doll_man_grassland",
+    "bust": "user_card/image_man_grassland/image_man_grassland",
+    "id": 4008,
+    "ImageDeviation": [
+      0.0,
+      -350.0
+    ],
+    "ImageRotation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.2000000476837158,
+    "name": "猎野巡行",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_woman_king_01/doll_woman_king_01",
+    "bust": "user_card/image_woman_king_01/image_woman_king_01",
+    "id": 4101,
+    "ImageDeviation": [
+      0.0,
+      -550.0
+    ],
+    "ImageRotation": [
+      0.0,
+      -180.0
+    ],
+    "ImageScale": 0.949999988079071,
+    "name": "初誓轻衣",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_woman_king_02/doll_woman_king_02",
+    "bust": "user_card/image_woman_king_02/image_woman_king_02",
+    "id": 4102,
+    "ImageDeviation": [
+      0.0,
+      -550.0
+    ],
+    "ImageRotation": [
+      0.0,
+      -180.0
+    ],
+    "ImageScale": 0.9800000190734863,
+    "name": "烬启织礼",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_woman_king_03/doll_woman_king_03",
+    "bust": "user_card/image_woman_king_03/image_woman_king_03",
+    "id": 4103,
+    "ImageDeviation": [
+      0.0,
+      -550.0
+    ],
+    "ImageRotation": [
+      0.0,
+      -180.0
+    ],
+    "ImageScale": 1.0499999523162842,
+    "name": "征命律裳",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_woman_king_04/doll_woman_king_04",
+    "bust": "user_card/image_woman_king_04/image_woman_king_04",
+    "id": 4104,
+    "ImageDeviation": [
+      0.0,
+      -700.0
+    ],
+    "ImageRotation": [
+      0.0,
+      -180.0
+    ],
+    "ImageScale": 1.3200000524520874,
+    "name": "时烬王女",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_woman_king_05/doll_woman_king_05",
+    "bust": "user_card/image_woman_king_05/image_woman_king_05",
+    "id": 4105,
+    "ImageDeviation": [
+      0.0,
+      -700.0
+    ],
+    "ImageRotation": [
+      0.0,
+      -180.0
+    ],
+    "ImageScale": 1.350000023841858,
+    "name": "终宙仪冠",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_woman_euro_02/doll_woman_euro_02",
+    "bust": "user_card/image_woman_euro_01/image_woman_euro_01",
+    "id": 4106,
+    "ImageDeviation": [
+      0.0,
+      -600.0
+    ],
+    "ImageRotation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.100000023841858,
+    "name": "星授侍裙",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_woman_euro_02/doll_woman_euro_02",
+    "bust": "user_card/image_woman_euro_02/image_woman_euro_02",
+    "id": 4107,
+    "ImageDeviation": [
+      0.0,
+      -650.0
+    ],
+    "ImageRotation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.1799999475479126,
+    "name": "蔷薇封礼",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_woman_euro_03/doll_woman_euro_03",
+    "bust": "user_card/image_woman_euro_03/image_woman_euro_03",
+    "id": 4108,
+    "ImageDeviation": [
+      0.0,
+      -600.0
+    ],
+    "ImageRotation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.2000000476837158,
+    "name": "圣庭女爵",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_woman_euro_03/doll_woman_euro_03",
+    "bust": "user_card/image_woman_euro_04/image_woman_euro_04",
+    "id": 4109,
+    "ImageDeviation": [
+      0.0,
+      -600.0
+    ],
+    "ImageRotation": [
+      0.0,
+      -180.0
+    ],
+    "ImageScale": 1.2999999523162842,
+    "name": "神授王冕",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "body": "user_doll_card/doll_woman_child_01/doll_woman_child_01",
+    "bust": "user_card/image_woman_child_01/image_woman_child_01",
+    "id": 4110,
+    "ImageDeviation": [
+      0.0,
+      -600.0
+    ],
+    "ImageRotation": [
+      0.0,
+      -180.0
+    ],
+    "ImageScale": 1.0,
+    "name": "稚语童裳",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "scale": 1.0
+  },
+  {
+    "bust": "cg/OPEN_CG_1",
+    "id": 10001,
+    "ImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "ImageScale": 1.0,
+    "name": "开场CG",
+    "PlotImageDeviation": [
+      0.0,
+      0.0
+    ],
+    "PlotImageScale": 1.0
+  }
+]

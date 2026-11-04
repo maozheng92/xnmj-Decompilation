@@ -1,0 +1,239 @@
+[
+  {
+    "attribute": "CAMP_SH",
+    "clientRead": true,
+    "color": "Battle/buzhen_line_jindu_shu",
+    "factionIcon": "Camp/icon_bond_faction_sh",
+    "fetterPlaySkills": {
+      "3": {
+        "JB_CAMP_SH_3": 1
+      },
+      "5": {
+        "JB_CAMP_SH_5": 1
+      },
+      "7": {
+        "JB_CAMP_SH_7": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 1,
+    "name": "蜀汉",
+    "skillDescription": [
+      "JB_CAMP_SH_TOTAL"
+    ]
+  },
+  {
+    "attribute": "CAMP_WS",
+    "clientRead": true,
+    "color": "Battle/buzhen_line_jindu_wu",
+    "factionIcon": "Camp/icon_bond_faction_ws_cn",
+    "fetterPlaySkills": "",
+    "fighterFetterPlaySkills": {
+      "3": {
+        "JB_CAMP_WS_3": 1
+      },
+      "5": {
+        "JB_CAMP_WS_5": 1
+      },
+      "7": {
+        "JB_CAMP_WS_7": 1
+      }
+    },
+    "id": 2,
+    "name": "无双",
+    "skillDescription": [
+      "JB_CAMP_WS_TOTAL"
+    ]
+  },
+  {
+    "attribute": "CAMP_FH",
+    "clientRead": true,
+    "color": "Battle/buzhen_line_jindu_feng",
+    "factionIcon": "Camp/icon_bond_faction_fh_cn",
+    "fetterPlaySkills": {
+      "3": {
+        "JB_CAMP_FH_3": 1
+      },
+      "5": {
+        "JB_CAMP_FH_5": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 3,
+    "name": "风华",
+    "skillDescription": [
+      "JB_CAMP_FH_TOTAL"
+    ]
+  },
+  {
+    "attribute": "CAMP_SY",
+    "clientRead": true,
+    "color": "Battle/buzhen_line_jindu_ying",
+    "factionIcon": "Camp/icon_bond_faction_sy_cn",
+    "fetterPlaySkills": {
+      "3": {
+        "JB_CAMP_SY_3": 1
+      },
+      "5": {
+        "JB_CAMP_SY_5": 1
+      },
+      "7": {
+        "JB_CAMP_SY_7": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 4,
+    "name": "山樱",
+    "skillDescription": [
+      "JB_CAMP_SY_TOTAL"
+    ]
+  },
+  {
+    "attribute": "CAMP_DW",
+    "clientRead": true,
+    "color": "Battle/buzhen_line_jindu_wu2",
+    "factionIcon": "Camp/icon_bond_faction_dw_cn",
+    "fetterPlaySkills": "",
+    "fighterFetterPlaySkills": {
+      "3": {
+        "JB_CAMP_DW_3": 1
+      },
+      "5": {
+        "JB_CAMP_DW_5": 1
+      }
+    },
+    "id": 5,
+    "name": "东吴",
+    "skillDescription": [
+      "JB_CAMP_DW_TOTAL"
+    ]
+  },
+  {
+    "attribute": "CAMP_LZ",
+    "clientRead": true,
+    "color": "Battle/buzhen_line_jindu_lv",
+    "factionIcon": "Camp/icon_bond_faction_lz",
+    "fetterPlaySkills": {
+      "2": {
+        "JB_CAMP_LZ_2": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 6,
+    "name": "旅者",
+    "skillDescription": [
+      "JB_CAMP_LZ_TOTAL"
+    ]
+  },
+  {
+    "attribute": "CAMP_TS",
+    "clientRead": true,
+    "color": "Battle/buzhen_line_jindu_tong",
+    "factionIcon": "Camp/icon_bond_faction_ts_cn",
+    "fetterPlaySkills": "",
+    "fighterFetterPlaySkills": {
+      "2": {
+        "JB_CAMP_TS_2": 1
+      },
+      "4": {
+        "JB_CAMP_TS_4": 1
+      }
+    },
+    "id": 7,
+    "name": "统帅",
+    "skillDescription": [
+      "JB_CAMP_TS_TOTAL"
+    ]
+  },
+  {
+    "attribute": "CAMP_LH",
+    "clientRead": true,
+    "color": "Battle/buzhen_line_jindu_lian",
+    "factionIcon": "Camp/icon_bond_faction_lh_cn",
+    "fetterPlaySkills": "",
+    "fighterFetterPlaySkills": {
+      "2": {
+        "JB_CAMP_LH_2": 1
+      }
+    },
+    "id": 8,
+    "name": "莲华",
+    "skillDescription": [
+      "JB_CAMP_LH_TOTAL"
+    ]
+  },
+  {
+    "attribute": "CAMP_SQ",
+    "clientRead": true,
+    "color": "Battle/buzhen_line_jindu_shen",
+    "factionIcon": "Camp/icon_bond_faction_sz",
+    "fetterPlaySkills": "",
+    "fighterFetterPlaySkills": {
+      "3": {
+        "JB_CAMP_SQ_3": 1
+      },
+      "4": {
+        "JB_CAMP_SQ_4": 1
+      }
+    },
+    "id": 9,
+    "name": "神祇",
+    "skillDescription": [
+      "JB_CAMP_SQ_TOTAL"
+    ]
+  },
+  {
+    "attribute": "CAMP_MJ",
+    "clientRead": true,
+    "color": "Battle/buzhen_line_jindu_mi",
+    "factionIcon": "Camp/icon_bond_faction_mj",
+    "fetterPlaySkills": {
+      "1": {
+        "JB_CAMP_MJ_1": 1
+      },
+      "4": {
+        "JB_CAMP_MJ_4": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 10,
+    "name": "秘教",
+    "skillDescription": [
+      "JB_CAMP_MJ_TOTAL"
+    ]
+  },
+  {
+    "attribute": "CAMP_WW",
+    "clientRead": true,
+    "color": "Battle/buzhen_line_jindu_wei",
+    "factionIcon": "Camp/icon_bond_faction_ww",
+    "fetterPlaySkills": {
+      "3": {
+        "JB_CAMP_WW_3": 1
+      },
+      "5": {
+        "JB_CAMP_WW_5": 1
+      },
+      "7": {
+        "JB_CAMP_WW_7": 1
+      }
+    },
+    "fighterFetterPlaySkills": "",
+    "id": 11,
+    "name": "魏武",
+    "skillDescription": [
+      "JB_CAMP_WW_TOTAL"
+    ]
+  },
+  {
+    "attribute": "CAMP_DC",
+    "clientRead": false,
+    "color": "",
+    "factionIcon": "",
+    "fetterPlaySkills": {},
+    "fighterFetterPlaySkills": {},
+    "id": 99,
+    "name": "貂蝉专属",
+    "skillDescription": []
+  }
+]

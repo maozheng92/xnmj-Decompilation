@@ -1,0 +1,397 @@
+[
+  {
+    "defaultRoleskin": {
+      "10010031": "card_skill_1003_skin_1/card_skill_1003_skin_1_normal_1",
+      "10010033": "card_skill_1003_skin_3/card_skill_1003_skin_3_normal_1"
+    },
+    "id": "card_skill_1003/card_skill_1003_normal_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010031": "card_skill_1003_skin_1/card_skill_1003_skin_1_normal_2",
+      "10010033": "card_skill_1003_skin_3/card_skill_1003_skin_3_normal_2"
+    },
+    "id": "card_skill_1003/card_skill_1003_normal_2"
+  },
+  {
+    "defaultRoleskin": {
+      "10010031": "card_skill_1003_skin_1/card_skill_1003_skin_1_skill_1",
+      "10010033": "card_skill_1003_skin_3/card_skill_1003_skin_3_skill_1"
+    },
+    "id": "card_skill_1003/card_skill_1003_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010031": "card_skill_1003_skin_1/card_skill_1003_skin_1_skill_2",
+      "10010033": "card_skill_1003_skin_3/card_skill_1003_skin_3_skill_2"
+    },
+    "id": "card_skill_1003/card_skill_1003_skill_2"
+  },
+  {
+    "defaultRoleskin": {
+      "10010031": "card_skill_1003_skin_1/card_skill_1003_skin_1_skill_state_1",
+      "10010033": "card_skill_1003_skin_3/card_skill_1003_skin_3_skill_state_1"
+    },
+    "id": "card_skill_1003/card_skill_1003_skill_state_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010031": "card_skill_1003_skin_1/card_skill_1003_skin_1_skill_state_2",
+      "10010033": "card_skill_1003_skin_3/card_skill_1003_skin_3_skill_state_2"
+    },
+    "id": "card_skill_1003/card_skill_1003_skill_state_2"
+  },
+  {
+    "defaultRoleskin": {
+      "11010081": "card_skill_1008_skin_1/card_skill_1008_skin_1_normal_1"
+    },
+    "id": "card_skill_1008/card_skill_1008_normal_1"
+  },
+  {
+    "defaultRoleskin": {
+      "11010081": "card_skill_1008_skin_1/card_skill_1008_skin_1_skill_1"
+    },
+    "id": "card_skill_1008/card_skill_1008_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "11010081": "card_skill_1008_skin_1/card_skill_1008_skin_1_skill_hit_1"
+    },
+    "id": "card_skill_1008/card_skill_1008_skill_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010262": "card_skill_1026_skin_1/card_skill_1026_skin_1_normal_1"
+    },
+    "id": "card_skill_1026/card_skill_1026_normal_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010262": "card_skill_1026_skin_1/card_skill_1026_skin_1_normal_hit_1"
+    },
+    "id": "card_skill_1026/card_skill_1026_normal_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010262": "card_skill_1026_skin_1/card_skill_1026_skin_1_skill_1"
+    },
+    "id": "card_skill_1026/card_skill_1026_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010262": "card_skill_1026_skin_1/card_skill_1026_skin_1_skill_bullet_1"
+    },
+    "id": "card_skill_1026/card_skill_1026_skill_bullet_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010262": "card_skill_1026_skin_1/card_skill_1026_skin_1_skill_bullet_2"
+    },
+    "id": "card_skill_1026/card_skill_1026_skill_bullet_2"
+  },
+  {
+    "defaultRoleskin": {
+      "10010262": "card_skill_1026_skin_1/card_skill_1026_skin_1_skill_hit_1"
+    },
+    "id": "card_skill_1026/card_skill_1026_skill_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010262": "card_skill_1026_skin_1/card_skill_1026_skin_1_skill_hit_2"
+    },
+    "id": "card_skill_1026/card_skill_1026_skill_hit_2"
+  },
+  {
+    "defaultRoleskin": {
+      "10010262": "card_skill_1026_skin_1/card_skill_1026_skin_1_skill_state_1"
+    },
+    "id": "card_skill_1026/card_skill_1026_skill_state_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010461": "card_skill_1046_skin_1/card_skill_1046_skin_1_normal_1"
+    },
+    "id": "card_skill_1046/card_skill_1046_normal_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010461": "card_skill_1046_skin_1/card_skill_1046_skin_1_skill_1"
+    },
+    "id": "card_skill_1046/card_skill_1046_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010491": "card_skill_1049_skin_1/card_skill_1049_skin_1_normal_1"
+    },
+    "id": "card_skill_1049/card_skill_1049_normal_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010491": "card_skill_1049_skin_1/card_skill_1049_skin_1_normal_hit_1"
+    },
+    "id": "card_skill_1049/card_skill_1049_normal_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010491": "card_skill_1049_skin_1/card_skill_1049_skin_1_skill_1"
+    },
+    "id": "card_skill_1049/card_skill_1049_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010491": "card_skill_1049_skin_1/card_skill_1049_skin_1_skill_bullet_1"
+    },
+    "id": "card_skill_1049/card_skill_1049_skill_bullet_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010491": "card_skill_1049_skin_1/card_skill_1049_skin_1_skill_hit_1"
+    },
+    "id": "card_skill_1049/card_skill_1049_skill_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010111": "card_skill_1011_skin_1/card_skill_1011_skin_1_normal_bullet_1",
+      "10010113": "card_skill_1011_skin_3/card_skill_1011_skin_3_normal_bullet_1"
+    },
+    "id": "card_skill_1011/card_skill_1011_normal_bullet_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010111": "card_skill_1011_skin_1/card_skill_1011_skin_1_normal_hit_1",
+      "10010113": "card_skill_1011_skin_3/card_skill_1011_skin_3_normal_hit_1"
+    },
+    "id": "card_skill_1011/card_skill_1011_normal_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010111": "card_skill_1011_skin_1/card_skill_1011_skin_1_skill_1",
+      "10010113": "card_skill_1011_skin_3/card_skill_1011_skin_3_skill_1"
+    },
+    "id": "card_skill_1011/card_skill_1011_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010111": "card_skill_1011_skin_1/card_skill_1011_skin_1_skill_bullet_1",
+      "10010113": "card_skill_1011_skin_3/card_skill_1011_skin_3_skill_bullet_1"
+    },
+    "id": "card_skill_1011/card_skill_1011_skill_bullet_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010111": "card_skill_1011_skin_1/card_skill_1011_skin_1_skill_hit_1",
+      "10010113": "card_skill_1011_skin_3/card_skill_1011_skin_3_skill_hit_1"
+    },
+    "id": "card_skill_1011/card_skill_1011_skill_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010351": "card_skill_1035_skin_1/card_skill_1035_skin_1_normal_1"
+    },
+    "id": "card_skill_1035/card_skill_1035_normal_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010351": "card_skill_1035_skin_1/card_skill_1035_skin_1_normal_bullet_1"
+    },
+    "id": "card_skill_1035/card_skill_1035_normal_bullet_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010351": "card_skill_1035_skin_1/card_skill_1035_skin_1_normal_hit_1"
+    },
+    "id": "card_skill_1035/card_skill_1035_normal_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010351": "card_skill_1035_skin_1/card_skill_1035_skin_1_skill_1"
+    },
+    "id": "card_skill_1035/card_skill_1035_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010351": "card_skill_1035_skin_1/card_skill_1035_skin_1_skill_2"
+    },
+    "id": "card_skill_1035/card_skill_1035_skill_2"
+  },
+  {
+    "defaultRoleskin": {
+      "10010351": "card_skill_1035_skin_1/card_skill_1035_skin_1_skill_3"
+    },
+    "id": "card_skill_1035/card_skill_1035_skill_3"
+  },
+  {
+    "defaultRoleskin": {
+      "10010161": "card_skill_1016_skin_1/card_skill_1016_skin_1_normal_bullet_1"
+    },
+    "id": "card_skill_1016/card_skill_1016_normal_bullet_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010161": "card_skill_1016_skin_1/card_skill_1016_skin_1_normal_hit_1"
+    },
+    "id": "card_skill_1016/card_skill_1016_normal_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010161": "card_skill_1016_skin_1/card_skill_1016_skin_1_skill_1"
+    },
+    "id": "card_skill_1016/card_skill_1016_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010161": "card_skill_1016_skin_1/card_skill_1016_skin_1_skill_1_hit_1"
+    },
+    "id": "card_skill_1016/card_skill_1016_skill_1_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010161": "card_skill_1016_skin_1/card_skill_1016_skin_1_skill_2"
+    },
+    "id": "card_skill_1016/card_skill_1016_skill_2"
+  },
+  {
+    "defaultRoleskin": {
+      "10010241": "card_skill_1024_skin_1/card_skill_1024_skin_1_normal_bullet_1"
+    },
+    "id": "card_skill_1024/card_skill_1024_normal_bullet_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010241": "card_skill_1024_skin_1/card_skill_1024_skin_1_normal_hit_1"
+    },
+    "id": "card_skill_1024/card_skill_1024_normal_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010241": "card_skill_1024_skin_1/card_skill_1024_skin_1_skill_1"
+    },
+    "id": "card_skill_1024/card_skill_1024_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010241": "card_skill_1024_skin_1/card_skill_1024_skin_1_skill_bullet_1"
+    },
+    "id": "card_skill_1024/card_skill_1024_skill_bullet_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010241": "card_skill_1024_skin_1/card_skill_1024_skin_1_skill_hit_1"
+    },
+    "id": "card_skill_1024/card_skill_1024_skill_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "1001024991": "card_skill_1024_sv_skin_1/card_skill_1024_sv_skin_1_normal_1"
+    },
+    "id": "card_skill_1024_sv/card_skill_1024_sv_normal_1"
+  },
+  {
+    "defaultRoleskin": {
+      "1001024991": "card_skill_1024_sv_skin_1/card_skill_1024_sv_skin_1_normal_hit_1"
+    },
+    "id": "card_skill_1024_sv/card_skill_1024_sv_normal_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "1001024991": "card_skill_1024_sv_skin_1/card_skill_1024_sv_skin_1_skill_1"
+    },
+    "id": "card_skill_1024_sv/card_skill_1024_sv_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010301": "card_skill_1030_skin_1/card_skill_1030_skin_1_normal_1"
+    },
+    "id": "card_skill_1030/card_skill_1030_normal_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010301": "card_skill_1030_skin_1/card_skill_1030_skin_1_normal_bullet_1"
+    },
+    "id": "card_skill_1030/card_skill_1030_normal_bullet_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010301": "card_skill_1030_skin_1/card_skill_1030_skin_1_normal_hit_1"
+    },
+    "id": "card_skill_1030/card_skill_1030_normal_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010301": "card_skill_1030_skin_1/card_skill_1030_skin_1_skill_1"
+    },
+    "id": "card_skill_1030/card_skill_1030_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010301": "card_skill_1030_skin_1/card_skill_1030_skin_1_skill_hit_1"
+    },
+    "id": "card_skill_1030/card_skill_1030_skill_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010201": "card_skill_1020_skin_1/card_skill_1020_skin_1_normal_1"
+    },
+    "id": "card_skill_1020/card_skill_1020_normal_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010201": "card_skill_1020_skin_1/card_skill_1020_skin_1_normal_hit_1"
+    },
+    "id": "card_skill_1020/card_skill_1020_normal_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010201": "card_skill_1020_skin_1/card_skill_1020_skin_1_skill_1"
+    },
+    "id": "card_skill_1020/card_skill_1020_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010201": "card_skill_1020_skin_1/card_skill_1020_skin_1_skill_bullet_1"
+    },
+    "id": "card_skill_1020/card_skill_1020_skill_bullet_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010201": "card_skill_1020_skin_1/card_skill_1020_skin_1_skill_hit_1"
+    },
+    "id": "card_skill_1020/card_skill_1020_skill_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010331": "card_skill_1033_skin_1/card_skill_1033_skin_1_normal_1"
+    },
+    "id": "card_skill_1033/card_skill_1033_normal_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010331": "card_skill_1033_skin_1/card_skill_1033_skin_1_normal_hit_1"
+    },
+    "id": "card_skill_1033/card_skill_1033_normal_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010331": "card_skill_1033_skin_1/card_skill_1033_skin_1_skill_1"
+    },
+    "id": "card_skill_1033/card_skill_1033_skill_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010331": "card_skill_1033_skin_1/card_skill_1033_skin_1_skill_bullet_1"
+    },
+    "id": "card_skill_1033/card_skill_1033_skill_bullet_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010331": "card_skill_1033_skin_1/card_skill_1033_skin_1_skill_hit_1"
+    },
+    "id": "card_skill_1033/card_skill_1033_skill_hit_1"
+  },
+  {
+    "defaultRoleskin": {
+      "10010241": "1024_SKIN_1_BA_S1_E1_SV1"
+    },
+    "id": "1024_BA_S1_E1_SV1"
+  }
+]

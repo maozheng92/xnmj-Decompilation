@@ -1,0 +1,4454 @@
+[
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1001,
+    "id": 100103,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1001,
+    "id": 100104,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1001,
+    "id": 100105,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1001,
+    "id": 100106,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1001,
+    "id": 100107,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1001,
+    "id": 100108,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1001,
+    "id": 100109,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1002,
+    "id": 100203,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1002,
+    "id": 100204,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1002,
+    "id": 100205,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1002,
+    "id": 100206,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1002,
+    "id": 100207,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1002,
+    "id": 100208,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1002,
+    "id": 100209,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1003,
+    "id": 100303,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.9,
+      "ZJPZ_PZ_ATK_PCT": 0.9,
+      "ZJPZ_PZ_MAG_PCT": 0.9,
+      "ZJPZ_PZ_DEF_PCT": 0.9,
+      "ZJPZ_PZ_MDEF_PCT": 0.9
+    },
+    "heroId": 1003,
+    "id": 100304,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1003,
+    "id": 100305,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1003,
+    "id": 100306,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1003,
+    "id": 100307,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1003,
+    "id": 100308,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1003,
+    "id": 100309,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1004,
+    "id": 100403,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1004,
+    "id": 100404,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1004,
+    "id": 100405,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1004,
+    "id": 100406,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1004,
+    "id": 100407,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1004,
+    "id": 100408,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1004,
+    "id": 100409,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1005,
+    "id": 100503,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1005,
+    "id": 100504,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1005,
+    "id": 100505,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1005,
+    "id": 100506,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1005,
+    "id": 100507,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1005,
+    "id": 100508,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1005,
+    "id": 100509,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1006,
+    "id": 100603,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1006,
+    "id": 100604,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1006,
+    "id": 100605,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1006,
+    "id": 100606,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1006,
+    "id": 100607,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1006,
+    "id": 100608,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1006,
+    "id": 100609,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1007,
+    "id": 100703,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1007,
+    "id": 100704,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1007,
+    "id": 100705,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1007,
+    "id": 100706,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1007,
+    "id": 100707,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1007,
+    "id": 100708,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1007,
+    "id": 100709,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1008,
+    "id": 100803,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1008,
+    "id": 100804,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1008,
+    "id": 100805,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1008,
+    "id": 100806,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1008,
+    "id": 100807,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1008,
+    "id": 100808,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1008,
+    "id": 100809,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1009,
+    "id": 100903,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1009,
+    "id": 100904,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1009,
+    "id": 100905,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1009,
+    "id": 100906,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1009,
+    "id": 100907,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1009,
+    "id": 100908,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1009,
+    "id": 100909,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1010,
+    "id": 101003,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1010,
+    "id": 101004,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1010,
+    "id": 101005,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1010,
+    "id": 101006,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1010,
+    "id": 101007,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1010,
+    "id": 101008,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1010,
+    "id": 101009,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1011,
+    "id": 101103,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1011,
+    "id": 101104,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1011,
+    "id": 101105,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1011,
+    "id": 101106,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1011,
+    "id": 101107,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1011,
+    "id": 101108,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1011,
+    "id": 101109,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1012,
+    "id": 101203,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1012,
+    "id": 101204,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1012,
+    "id": 101205,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1012,
+    "id": 101206,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1012,
+    "id": 101207,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1012,
+    "id": 101208,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1012,
+    "id": 101209,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1013,
+    "id": 101303,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1013,
+    "id": 101304,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1013,
+    "id": 101305,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1013,
+    "id": 101306,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1013,
+    "id": 101307,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1013,
+    "id": 101308,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1013,
+    "id": 101309,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1014,
+    "id": 101403,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1014,
+    "id": 101404,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1014,
+    "id": 101405,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1014,
+    "id": 101406,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1014,
+    "id": 101407,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1014,
+    "id": 101408,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1014,
+    "id": 101409,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1015,
+    "id": 101503,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1015,
+    "id": 101504,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1015,
+    "id": 101505,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1015,
+    "id": 101506,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1015,
+    "id": 101507,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1015,
+    "id": 101508,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1015,
+    "id": 101509,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1016,
+    "id": 101603,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1016,
+    "id": 101604,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1016,
+    "id": 101605,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1016,
+    "id": 101606,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1016,
+    "id": 101607,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1016,
+    "id": 101608,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1016,
+    "id": 101609,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1017,
+    "id": 101703,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1017,
+    "id": 101704,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1017,
+    "id": 101705,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1017,
+    "id": 101706,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1017,
+    "id": 101707,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1017,
+    "id": 101708,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1017,
+    "id": 101709,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1018,
+    "id": 101803,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1018,
+    "id": 101804,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1018,
+    "id": 101805,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1018,
+    "id": 101806,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1018,
+    "id": 101807,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1018,
+    "id": 101808,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1018,
+    "id": 101809,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1019,
+    "id": 101903,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1019,
+    "id": 101904,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1019,
+    "id": 101905,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1019,
+    "id": 101906,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1019,
+    "id": 101907,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1019,
+    "id": 101908,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1019,
+    "id": 101909,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1020,
+    "id": 102003,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1020,
+    "id": 102004,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1020,
+    "id": 102005,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1020,
+    "id": 102006,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1020,
+    "id": 102007,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1020,
+    "id": 102008,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1020,
+    "id": 102009,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1021,
+    "id": 102103,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1021,
+    "id": 102104,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1021,
+    "id": 102105,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1021,
+    "id": 102106,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1021,
+    "id": 102107,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1021,
+    "id": 102108,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1021,
+    "id": 102109,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1022,
+    "id": 102203,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1022,
+    "id": 102204,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1022,
+    "id": 102205,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1022,
+    "id": 102206,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1022,
+    "id": 102207,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1022,
+    "id": 102208,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1022,
+    "id": 102209,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1023,
+    "id": 102303,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1023,
+    "id": 102304,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1023,
+    "id": 102305,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1023,
+    "id": 102306,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1023,
+    "id": 102307,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1023,
+    "id": 102308,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1023,
+    "id": 102309,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1024,
+    "id": 102403,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1024,
+    "id": 102404,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1024,
+    "id": 102405,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1024,
+    "id": 102406,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1024,
+    "id": 102407,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1024,
+    "id": 102408,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1024,
+    "id": 102409,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1025,
+    "id": 102503,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1025,
+    "id": 102504,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1025,
+    "id": 102505,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1025,
+    "id": 102506,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1025,
+    "id": 102507,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1025,
+    "id": 102508,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1025,
+    "id": 102509,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1026,
+    "id": 102603,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1026,
+    "id": 102604,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1026,
+    "id": 102605,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1026,
+    "id": 102606,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1026,
+    "id": 102607,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1026,
+    "id": 102608,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1026,
+    "id": 102609,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1027,
+    "id": 102703,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1027,
+    "id": 102704,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1027,
+    "id": 102705,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1027,
+    "id": 102706,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1027,
+    "id": 102707,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1027,
+    "id": 102708,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1027,
+    "id": 102709,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1028,
+    "id": 102803,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1028,
+    "id": 102804,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1028,
+    "id": 102805,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1028,
+    "id": 102806,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1028,
+    "id": 102807,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1028,
+    "id": 102808,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1028,
+    "id": 102809,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1029,
+    "id": 102903,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1029,
+    "id": 102904,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1029,
+    "id": 102905,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1029,
+    "id": 102906,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1029,
+    "id": 102907,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1029,
+    "id": 102908,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1029,
+    "id": 102909,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1030,
+    "id": 103003,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1030,
+    "id": 103004,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1030,
+    "id": 103005,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1030,
+    "id": 103006,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1030,
+    "id": 103007,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1030,
+    "id": 103008,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1030,
+    "id": 103009,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1031,
+    "id": 103103,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1031,
+    "id": 103104,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1031,
+    "id": 103105,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1031,
+    "id": 103106,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1031,
+    "id": 103107,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1031,
+    "id": 103108,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1031,
+    "id": 103109,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1032,
+    "id": 103203,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1032,
+    "id": 103204,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1032,
+    "id": 103205,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1032,
+    "id": 103206,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1032,
+    "id": 103207,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1032,
+    "id": 103208,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1032,
+    "id": 103209,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1033,
+    "id": 103303,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1033,
+    "id": 103304,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1033,
+    "id": 103305,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1033,
+    "id": 103306,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1033,
+    "id": 103307,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1033,
+    "id": 103308,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1033,
+    "id": 103309,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1034,
+    "id": 103403,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1034,
+    "id": 103404,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1034,
+    "id": 103405,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1034,
+    "id": 103406,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1034,
+    "id": 103407,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1034,
+    "id": 103408,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1034,
+    "id": 103409,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1035,
+    "id": 103503,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1035,
+    "id": 103504,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1035,
+    "id": 103505,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1035,
+    "id": 103506,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1035,
+    "id": 103507,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1035,
+    "id": 103508,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1035,
+    "id": 103509,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1036,
+    "id": 103603,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1036,
+    "id": 103604,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1036,
+    "id": 103605,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1036,
+    "id": 103606,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1036,
+    "id": 103607,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1036,
+    "id": 103608,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1036,
+    "id": 103609,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1037,
+    "id": 103703,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1037,
+    "id": 103704,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1037,
+    "id": 103705,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1037,
+    "id": 103706,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1037,
+    "id": 103707,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1037,
+    "id": 103708,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1037,
+    "id": 103709,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1038,
+    "id": 103803,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1038,
+    "id": 103804,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1038,
+    "id": 103805,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1038,
+    "id": 103806,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1038,
+    "id": 103807,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1038,
+    "id": 103808,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1038,
+    "id": 103809,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1039,
+    "id": 103903,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1039,
+    "id": 103904,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1039,
+    "id": 103905,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1039,
+    "id": 103906,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1039,
+    "id": 103907,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1039,
+    "id": 103908,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1039,
+    "id": 103909,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1040,
+    "id": 104003,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1040,
+    "id": 104004,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1040,
+    "id": 104005,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1040,
+    "id": 104006,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1040,
+    "id": 104007,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1040,
+    "id": 104008,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1040,
+    "id": 104009,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1041,
+    "id": 104103,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1041,
+    "id": 104104,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1041,
+    "id": 104105,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1041,
+    "id": 104106,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1041,
+    "id": 104107,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1041,
+    "id": 104108,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1041,
+    "id": 104109,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1042,
+    "id": 104203,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1042,
+    "id": 104204,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1042,
+    "id": 104205,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1042,
+    "id": 104206,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1042,
+    "id": 104207,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1042,
+    "id": 104208,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1042,
+    "id": 104209,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1043,
+    "id": 104303,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1043,
+    "id": 104304,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1043,
+    "id": 104305,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1043,
+    "id": 104306,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1043,
+    "id": 104307,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1043,
+    "id": 104308,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1043,
+    "id": 104309,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1044,
+    "id": 104403,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1044,
+    "id": 104404,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1044,
+    "id": 104405,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1044,
+    "id": 104406,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1044,
+    "id": 104407,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1044,
+    "id": 104408,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1044,
+    "id": 104409,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1045,
+    "id": 104503,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1045,
+    "id": 104504,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1045,
+    "id": 104505,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1045,
+    "id": 104506,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1045,
+    "id": 104507,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1045,
+    "id": 104508,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1045,
+    "id": 104509,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1046,
+    "id": 104603,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1046,
+    "id": 104604,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1046,
+    "id": 104605,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1046,
+    "id": 104606,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1046,
+    "id": 104607,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1046,
+    "id": 104608,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1046,
+    "id": 104609,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1047,
+    "id": 104703,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1047,
+    "id": 104704,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1047,
+    "id": 104705,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1047,
+    "id": 104706,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1047,
+    "id": 104707,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1047,
+    "id": 104708,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1047,
+    "id": 104709,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1048,
+    "id": 104803,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1048,
+    "id": 104804,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1048,
+    "id": 104805,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1048,
+    "id": 104806,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1048,
+    "id": 104807,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1048,
+    "id": 104808,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1048,
+    "id": 104809,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1049,
+    "id": 104903,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1049,
+    "id": 104904,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1049,
+    "id": 104905,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1049,
+    "id": 104906,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1049,
+    "id": 104907,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1049,
+    "id": 104908,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1049,
+    "id": 104909,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1050,
+    "id": 105003,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1050,
+    "id": 105004,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1050,
+    "id": 105005,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1050,
+    "id": 105006,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1050,
+    "id": 105007,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1050,
+    "id": 105008,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1050,
+    "id": 105009,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1051,
+    "id": 105103,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1051,
+    "id": 105104,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1051,
+    "id": 105105,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1051,
+    "id": 105106,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1051,
+    "id": 105107,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1051,
+    "id": 105108,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1051,
+    "id": 105109,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1052,
+    "id": 105203,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1052,
+    "id": 105204,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1052,
+    "id": 105205,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1052,
+    "id": 105206,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1052,
+    "id": 105207,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1052,
+    "id": 105208,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1052,
+    "id": 105209,
+    "quality": 9
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.75,
+      "ZJPZ_PZ_ATK_PCT": 0.75,
+      "ZJPZ_PZ_MAG_PCT": 0.75,
+      "ZJPZ_PZ_DEF_PCT": 0.75,
+      "ZJPZ_PZ_MDEF_PCT": 0.75
+    },
+    "heroId": 1053,
+    "id": 105303,
+    "quality": 3
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 0.85,
+      "ZJPZ_PZ_ATK_PCT": 0.85,
+      "ZJPZ_PZ_MAG_PCT": 0.85,
+      "ZJPZ_PZ_DEF_PCT": 0.85,
+      "ZJPZ_PZ_MDEF_PCT": 0.85
+    },
+    "heroId": 1053,
+    "id": 105304,
+    "quality": 4
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1053,
+    "id": 105305,
+    "quality": 5
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1053,
+    "id": 105306,
+    "quality": 6
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1053,
+    "id": 105307,
+    "quality": 7
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1053,
+    "id": 105308,
+    "quality": 8
+  },
+  {
+    "attributes": {
+      "ZJPZ_PZ_HP_PCT": 1,
+      "ZJPZ_PZ_ATK_PCT": 1,
+      "ZJPZ_PZ_MAG_PCT": 1,
+      "ZJPZ_PZ_DEF_PCT": 1,
+      "ZJPZ_PZ_MDEF_PCT": 1
+    },
+    "heroId": 1053,
+    "id": 105309,
+    "quality": 9
+  }
+]
