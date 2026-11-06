@@ -1,0 +1,30 @@
+{
+  "note": "SideStory 唤影。1.0.3.4 只有 SIDE_STORY_001（闭月/祈月唤影）。1.0.5.0 热更出现 晴光祭 与 SIDE_STORY_101（天照）。大奖 = rare 1，总权重 1000。",
+  "setting": {
+    "id": "SIDE_STORY_001",
+    "heroId": 1016,
+    "heroName": "闭月",
+    "heroDesc": "群体输出，伤害爆炸",
+    "lotteryLuckyLimit": 200,
+    "multiLotteryCount": 5,
+    "dailyGiftBuyLimit": 7,
+    "oneLotteryCosts": [{"type": "ITEM", "code": 120004, "amount": 1}]
+  },
+  "grandPrizePerDraw": 0.009,
+  "heroPerDraw": 0.003,
+  "rewards": [
+    {"id": 1, "rare": 1, "weight": 3, "probability": 0.003, "lightRune": 0, "worth": 99, "rewards": [{"type": "HERO", "code": 1016, "amount": 1}], "name": "闭月"},
+    {"id": 2, "rare": 1, "weight": 3, "probability": 0.003, "lightRune": 0, "worth": 98, "rewards": [{"type": "HERO_RELIC", "code": 155004, "amount": 1}], "name": "月华花簪"},
+    {"id": 3, "rare": 1, "weight": 3, "probability": 0.003, "lightRune": 0, "worth": 97, "rewards": [{"type": "HERO_SKIN_VOUCHER", "code": 101601, "amount": 1}], "name": "繁花之庭"},
+    {"id": 5, "rare": 0, "weight": 25, "probability": 0.025, "lightRune": 1, "worth": 95, "rewards": [{"type": "ITEM", "code": 121000, "amount": 1}], "content": "再送一抽"},
+    {"id": 12, "rare": 0, "weight": 25, "probability": 0.025, "lightRune": 1, "worth": 96, "rewards": [{"type": "ITEM", "code": 121000, "amount": 1}], "content": "再送一抽"},
+    {"id": 4, "rare": 0, "weight": 60, "probability": 0.06, "lightRune": 0, "worth": 94, "rewards": [{"type": "CURRENCY", "code": 4, "amount": 2}]},
+    {"id": 11, "rare": 0, "weight": 95, "probability": 0.095, "lightRune": 0, "worth": 93, "rewards": [{"type": "CURRENCY", "code": 28, "amount": 50}]},
+    {"id": 13, "rare": 0, "weight": 96, "probability": 0.096, "lightRune": 0, "worth": 92, "rewards": [{"type": "ITEM", "code": 120003, "amount": 1}]},
+    {"id": 9, "rare": 0, "weight": 100, "probability": 0.1, "lightRune": 0, "worth": 90, "rewards": [{"type": "ITEM", "code": 109997, "amount": 10}]},
+    {"id": 8, "rare": 0, "weight": 120, "probability": 0.12, "lightRune": 0, "worth": 88, "rewards": [{"type": "ITEM", "code": 162002, "amount": 2}]},
+    {"id": 6, "rare": 0, "weight": 120, "probability": 0.12, "lightRune": 0, "worth": 89, "rewards": [{"type": "ITEM", "code": 400204, "amount": 1}]},
+    {"id": 10, "rare": 0, "weight": 150, "probability": 0.15, "lightRune": 0, "worth": 87, "rewards": [{"type": "ITEM", "code": 400801, "amount": 6}]},
+    {"id": 7, "rare": 0, "weight": 200, "probability": 0.2, "lightRune": 0, "worth": 86, "rewards": [{"type": "ITEM", "code": 140002, "amount": 2}]}
+  ]
+}
