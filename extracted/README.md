@@ -73,6 +73,7 @@
 | `role_skins.json` | 立绘/头像资源 |
 | `star_details.json` / `quality_details.json` | 升星/升品属性 |
 | `catalog.json` | 全部 526 张配置表名 |
+| `qingguang_festival.md` / `side_story_lottery.json` | 晴光祭 / 唤影大奖权重 |
 
 重新导出：
 
