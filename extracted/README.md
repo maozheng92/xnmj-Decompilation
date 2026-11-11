@@ -73,6 +73,7 @@
 | `role_skins.json` | 立绘/头像资源 |
 | `star_details.json` / `quality_details.json` | 升星/升品属性 |
 | `catalog.json` | 全部 526 张配置表名 |
+| `hero_rank.md` | 满星单卡强度排行（53 人，UR 轨 53 星 / 其余 33 星） |
 
 重新导出：
 
